@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="h (hue) &gt; 83.0" label="h (hue) &gt; 83.0" />
+      <node id="a* &lt;= -1.03" label="a* &lt;= -1.03" />
+      <node id="a* &gt; -1.03" label="a* &gt; -1.03" />
+      <node id="Class 2" label="Class 2" />
+      <node id="h (hue) &gt; 91.94" label="h (hue) &gt; 91.94" />
+      <node id="h (hue) &lt;= 99.94" label="h (hue) &lt;= 99.94" />
+      <node id="h (hue) &gt; 100.25" label="h (hue) &gt; 100.25" />
+      <node id="h (hue) &lt;= 100.25" label="h (hue) &lt;= 100.25" />
+      <node id="h (hue) &gt; 99.94" label="h (hue) &gt; 99.94" />
+      <node id="a* &gt; -1.15" label="a* &gt; -1.15" />
+      <node id="h (hue) &lt;= 82.93" label="h (hue) &lt;= 82.93" />
+      <node id="Class 3" label="Class 3" />
+      <node id="h (hue) &gt; 83.16" label="h (hue) &gt; 83.16" />
+      <node id="h (hue) &gt; 91.77" label="h (hue) &gt; 91.77" />
+      <node id="h (hue) &lt;= 91.77" label="h (hue) &lt;= 91.77" />
+      <node id="h (hue) &lt;= 82.77" label="h (hue) &lt;= 82.77" />
+      <node id="h (hue) &gt; 99.96" label="h (hue) &gt; 99.96" />
+      <node id="Class 0" label="Class 0" />
+      <node id="a* &lt;= -5.84" label="a* &lt;= -5.84" />
+      <node id="h (hue) &lt;= 100.55" label="h (hue) &lt;= 100.55" />
+      <node id="Class 1" label="Class 1" />
+      <node id="h (hue) &lt;= 83.16" label="h (hue) &lt;= 83.16" />
+      <node id="h (hue) &gt; 82.77" label="h (hue) &gt; 82.77" />
+      <node id="a* &gt; -5.84" label="a* &gt; -5.84" />
+      <node id="h (hue) &gt; 82.93" label="h (hue) &gt; 82.93" />
+      <node id="h (hue) &gt; 100.55" label="h (hue) &gt; 100.55" />
+      <node id="h (hue) &lt;= 91.94" label="h (hue) &lt;= 91.94" />
+      <node id="h (hue) &lt;= 83.0" label="h (hue) &lt;= 83.0" />
+      <node id="a* &lt;= -1.15" label="a* &lt;= -1.15" />
+      <node id="h (hue) &lt;= 99.96" label="h (hue) &lt;= 99.96" />
+    </nodes>
+    <edges>
+      <edge source="h (hue) &gt; 83.0" target="a* &lt;= -1.03" id="0" weight="60.0" />
+      <edge source="h (hue) &gt; 83.0" target="a* &gt; -1.03" id="1" weight="34.0" />
+      <edge source="h (hue) &gt; 83.0" target="Class 2" id="2" weight="35.0" />
+      <edge source="a* &lt;= -1.03" target="h (hue) &lt;= 100.55" id="3" weight="31.0" />
+      <edge source="a* &lt;= -1.03" target="h (hue) &gt; 100.55" id="4" weight="29.0" />
+      <edge source="a* &gt; -1.03" target="Class 2" id="5" weight="34.0" />
+      <edge source="h (hue) &gt; 91.94" target="h (hue) &lt;= 99.94" id="6" weight="29.0" />
+      <edge source="h (hue) &gt; 91.94" target="h (hue) &gt; 100.25" id="7" weight="29.0" />
+      <edge source="h (hue) &gt; 91.94" target="h (hue) &lt;= 100.25" id="8" weight="30.0" />
+      <edge source="h (hue) &gt; 91.94" target="h (hue) &gt; 99.94" id="9" weight="30.0" />
+      <edge source="h (hue) &lt;= 99.94" target="Class 1" id="10" weight="29.0" />
+      <edge source="h (hue) &gt; 100.25" target="Class 0" id="11" weight="29.0" />
+      <edge source="h (hue) &lt;= 100.25" target="Class 1" id="12" weight="30.0" />
+      <edge source="h (hue) &gt; 99.94" target="Class 0" id="13" weight="30.0" />
+      <edge source="a* &gt; -1.15" target="Class 2" id="14" weight="36.0" />
+      <edge source="h (hue) &lt;= 82.93" target="Class 3" id="15" weight="28.0" />
+      <edge source="h (hue) &gt; 83.16" target="h (hue) &gt; 91.77" id="16" weight="30.0" />
+      <edge source="h (hue) &gt; 83.16" target="h (hue) &lt;= 91.77" id="17" weight="33.0" />
+      <edge source="h (hue) &gt; 91.77" target="Class 1" id="18" weight="30.0" />
+      <edge source="h (hue) &lt;= 91.77" target="Class 2" id="19" weight="33.0" />
+      <edge source="h (hue) &lt;= 82.77" target="Class 3" id="20" weight="28.0" />
+      <edge source="h (hue) &gt; 99.96" target="Class 0" id="21" weight="30.0" />
+      <edge source="a* &lt;= -5.84" target="Class 0" id="22" weight="29.0" />
+      <edge source="h (hue) &lt;= 100.55" target="Class 1" id="23" weight="31.0" />
+      <edge source="h (hue) &lt;= 83.16" target="Class 3" id="24" weight="30.0" />
+      <edge source="h (hue) &gt; 82.77" target="a* &lt;= -5.84" id="25" weight="29.0" />
+      <edge source="h (hue) &gt; 82.77" target="a* &gt; -5.84" id="26" weight="66.0" />
+      <edge source="a* &gt; -5.84" target="a* &gt; -1.15" id="27" weight="36.0" />
+      <edge source="a* &gt; -5.84" target="a* &lt;= -1.15" id="28" weight="30.0" />
+      <edge source="h (hue) &gt; 82.93" target="Class 2" id="29" weight="36.0" />
+      <edge source="h (hue) &gt; 100.55" target="Class 0" id="30" weight="29.0" />
+      <edge source="h (hue) &lt;= 91.94" target="h (hue) &gt; 83.0" id="31" weight="35.0" />
+      <edge source="h (hue) &lt;= 91.94" target="h (hue) &lt;= 82.93" id="32" weight="28.0" />
+      <edge source="h (hue) &lt;= 91.94" target="h (hue) &gt; 82.93" id="33" weight="36.0" />
+      <edge source="h (hue) &lt;= 91.94" target="h (hue) &lt;= 83.0" id="34" weight="29.0" />
+      <edge source="h (hue) &lt;= 83.0" target="Class 3" id="35" weight="58.0" />
+      <edge source="a* &lt;= -1.15" target="Class 1" id="36" weight="30.0" />
+      <edge source="h (hue) &lt;= 99.96" target="h (hue) &gt; 83.16" id="37" weight="63.0" />
+      <edge source="h (hue) &lt;= 99.96" target="h (hue) &lt;= 83.16" id="38" weight="30.0" />
+    </edges>
+  </graph>
+</gexf>

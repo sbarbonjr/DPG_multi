@@ -26,6 +26,8 @@ def plot_dpg(plot_name, dot, df, df_dpg, save_dir="examples/", attribute=None, c
     # Basic color scheme if no attribute or communities are specified
     if attribute is None and not communities:
         for index, row in df.iterrows():
+            print('row[\'Label\']', row['Label'])
+            print('row ', row)
             if 'Class' in row['Label']:
                 change_node_color(dot, row['Node'], "#{:02x}{:02x}{:02x}".format(157, 195, 230))  # Light blue for class nodes
             else:
@@ -75,7 +77,6 @@ def plot_dpg(plot_name, dot, df, df_dpg, save_dir="examples/", attribute=None, c
         norm = mcolors.Normalize(0, max_score)  # Normalize the community indices
         
         colors = colormap(norm(df['Community']))  # Assign colors based on normalized community indices
-
         for index, row in df.iterrows():
             color = "#{:02x}{:02x}{:02x}".format(int(colors[index][0]*255), int(colors[index][1]*255), int(colors[index][2]*255))
             change_node_color(dot, row['Node'], color)

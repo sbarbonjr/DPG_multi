@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="pH &lt;= 4.31" label="pH &lt;= 4.31" />
+      <node id="Class 0" label="Class 0" />
+      <node id="pH &gt; 4.75" label="pH &gt; 4.75" />
+      <node id="Class 2" label="Class 2" />
+      <node id="pH &gt; 4.85" label="pH &gt; 4.85" />
+      <node id="Class 3" label="Class 3" />
+      <node id="pH &lt;= 4.85" label="pH &lt;= 4.85" />
+      <node id="Class 1" label="Class 1" />
+      <node id="pH &gt; 4.31" label="pH &gt; 4.31" />
+      <node id="Tit Acid &gt; 0.12" label="Tit Acid &gt; 0.12" />
+      <node id="Tit Acid &lt;= 0.12" label="Tit Acid &lt;= 0.12" />
+      <node id="Class 4" label="Class 4" />
+      <node id="pH &lt;= 4.75" label="pH &lt;= 4.75" />
+    </nodes>
+    <edges>
+      <edge source="pH &lt;= 4.31" target="Class 0" id="0" weight="23.0" />
+      <edge source="pH &gt; 4.75" target="Class 2" id="1" weight="58.0" />
+      <edge source="pH &gt; 4.85" target="Class 3" id="2" weight="55.0" />
+      <edge source="pH &gt; 4.85" target="Class 2" id="3" weight="55.0" />
+      <edge source="pH &lt;= 4.85" target="Class 1" id="4" weight="86.0" />
+      <edge source="pH &gt; 4.31" target="Class 2" id="5" weight="75.0" />
+      <edge source="Tit Acid &gt; 0.12" target="Class 3" id="6" weight="81.0" />
+      <edge source="Tit Acid &lt;= 0.12" target="Class 4" id="7" weight="17.0" />
+      <edge source="pH &lt;= 4.75" target="Class 0" id="8" weight="40.0" />
+    </edges>
+  </graph>
+</gexf>

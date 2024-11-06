@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="h &gt; 90.21" label="h &gt; 90.21" />
+      <node id="Class 0" label="Class 0" />
+      <node id="h &gt; 92.21" label="h &gt; 92.21" />
+      <node id="L* &lt;= 60.1" label="L* &lt;= 60.1" />
+      <node id="Class 2" label="Class 2" />
+      <node id="L* &gt; 60.1" label="L* &gt; 60.1" />
+      <node id="Class 1" label="Class 1" />
+      <node id="h &lt;= 90.21" label="h &lt;= 90.21" />
+      <node id="h &lt;= 92.21" label="h &lt;= 92.21" />
+    </nodes>
+    <edges>
+      <edge source="h &gt; 90.21" target="Class 0" id="0" weight="52.0" />
+      <edge source="h &gt; 92.21" target="Class 0" id="1" weight="24.0" />
+      <edge source="L* &lt;= 60.1" target="Class 2" id="2" weight="52.0" />
+      <edge source="L* &gt; 60.1" target="Class 1" id="3" weight="40.0" />
+      <edge source="h &lt;= 90.21" target="Class 1" id="4" weight="40.0" />
+      <edge source="h &lt;= 92.21" target="Class 1" id="5" weight="22.0" />
+    </edges>
+  </graph>
+</gexf>

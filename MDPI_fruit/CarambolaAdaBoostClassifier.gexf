@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="h (hue) &gt; 83.0" label="h (hue) &gt; 83.0" />
+      <node id="Class 2" label="Class 2" />
+      <node id="h (hue) &lt;= 99.94" label="h (hue) &lt;= 99.94" />
+      <node id="Class 1" label="Class 1" />
+      <node id="h (hue) &lt;= 83.0" label="h (hue) &lt;= 83.0" />
+      <node id="Class 3" label="Class 3" />
+      <node id="a* &gt; -1.13" label="a* &gt; -1.13" />
+      <node id="a* &lt;= -1.13" label="a* &lt;= -1.13" />
+      <node id="Class 0" label="Class 0" />
+      <node id="h (hue) &gt; 99.94" label="h (hue) &gt; 99.94" />
+    </nodes>
+    <edges>
+      <edge source="h (hue) &gt; 83.0" target="Class 2" id="0" weight="188.0" />
+      <edge source="h (hue) &lt;= 99.94" target="Class 1" id="1" weight="93.0" />
+      <edge source="h (hue) &lt;= 99.94" target="Class 2" id="2" weight="93.0" />
+      <edge source="h (hue) &lt;= 83.0" target="Class 3" id="3" weight="58.0" />
+      <edge source="a* &gt; -1.13" target="Class 2" id="4" weight="64.0" />
+      <edge source="a* &lt;= -1.13" target="Class 0" id="5" weight="59.0" />
+      <edge source="h (hue) &gt; 99.94" target="Class 0" id="6" weight="60.0" />
+    </edges>
+  </graph>
+</gexf>

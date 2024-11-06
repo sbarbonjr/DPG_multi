@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Pheno &gt; 0.72" label="Pheno &gt; 0.72" />
+      <node id="Class 1" label="Class 1" />
+      <node id="Class 2" label="Class 2" />
+      <node id="pH &gt; 3.96" label="pH &gt; 3.96" />
+      <node id="Brix &lt;= 10.47" label="Brix &lt;= 10.47" />
+      <node id="Brix &lt;= 8.88" label="Brix &lt;= 8.88" />
+      <node id="Brix &gt; 8.88" label="Brix &gt; 8.88" />
+      <node id="moisture &gt; 86.88" label="moisture &gt; 86.88" />
+      <node id="Pheno &lt;= 0.72" label="Pheno &lt;= 0.72" />
+      <node id="Brix &lt;= 10.3" label="Brix &lt;= 10.3" />
+      <node id="moisture &lt;= 73.5" label="moisture &lt;= 73.5" />
+      <node id="Class 3" label="Class 3" />
+      <node id="pH &lt;= 3.9" label="pH &lt;= 3.9" />
+      <node id="Tit Acid &gt; 0.34" label="Tit Acid &gt; 0.34" />
+      <node id="Tit Acid &lt;= 0.34" label="Tit Acid &lt;= 0.34" />
+      <node id="Pheno &lt;= 0.63" label="Pheno &lt;= 0.63" />
+      <node id="Pheno &gt; 0.62" label="Pheno &gt; 0.62" />
+      <node id="Pheno &lt;= 0.62" label="Pheno &lt;= 0.62" />
+      <node id="Brix &gt; 10.6" label="Brix &gt; 10.6" />
+      <node id="Tit Acid &gt; 0.14" label="Tit Acid &gt; 0.14" />
+      <node id="Tit Acid &lt;= 0.14" label="Tit Acid &lt;= 0.14" />
+      <node id="Pheno &lt;= 0.78" label="Pheno &lt;= 0.78" />
+      <node id="Pheno &gt; 0.68" label="Pheno &gt; 0.68" />
+      <node id="Pheno &lt;= 0.68" label="Pheno &lt;= 0.68" />
+      <node id="moisture &gt; 88.08" label="moisture &gt; 88.08" />
+      <node id="pH &gt; 5.16" label="pH &gt; 5.16" />
+      <node id="Tit Acid &lt;= 0.11" label="Tit Acid &lt;= 0.11" />
+      <node id="Tit Acid &gt; 0.11" label="Tit Acid &gt; 0.11" />
+      <node id="pH &lt;= 5.32" label="pH &lt;= 5.32" />
+      <node id="Class 4" label="Class 4" />
+      <node id="moisture &gt; 88.24" label="moisture &gt; 88.24" />
+      <node id="moisture &lt;= 87.68" label="moisture &lt;= 87.68" />
+      <node id="Brix &gt; 10.88" label="Brix &gt; 10.88" />
+      <node id="Brix &lt;= 10.88" label="Brix &lt;= 10.88" />
+      <node id="pH &lt;= 5.16" label="pH &lt;= 5.16" />
+      <node id="Brix &gt; 11.24" label="Brix &gt; 11.24" />
+      <node id="Brix &lt;= 11.24" label="Brix &lt;= 11.24" />
+      <node id="Pheno &gt; 0.67" label="Pheno &gt; 0.67" />
+      <node id="moisture &lt;= 85.15" label="moisture &lt;= 85.15" />
+      <node id="moisture &gt; 85.15" label="moisture &gt; 85.15" />
+      <node id="Class 0" label="Class 0" />
+      <node id="Brix &lt;= 9.28" label="Brix &lt;= 9.28" />
+      <node id="Tit Acid &lt;= 0.15" label="Tit Acid &lt;= 0.15" />
+      <node id="Pheno &lt;= 0.77" label="Pheno &lt;= 0.77" />
+      <node id="Pheno &gt; 0.77" label="Pheno &gt; 0.77" />
+      <node id="moisture &gt; 86.35" label="moisture &gt; 86.35" />
+      <node id="moisture &gt; 73.5" label="moisture &gt; 73.5" />
+      <node id="Pheno &gt; 0.73" label="Pheno &gt; 0.73" />
+      <node id="moisture &lt;= 88.08" label="moisture &lt;= 88.08" />
+      <node id="Pheno &lt;= 0.66" label="Pheno &lt;= 0.66" />
+      <node id="pH &lt;= 5.17" label="pH &lt;= 5.17" />
+      <node id="pH &lt;= 5.0" label="pH &lt;= 5.0" />
+      <node id="pH &gt; 5.0" label="pH &gt; 5.0" />
+      <node id="Brix &lt;= 9.22" label="Brix &lt;= 9.22" />
+      <node id="moisture &lt;= 86.9" label="moisture &lt;= 86.9" />
+      <node id="moisture &gt; 86.9" label="moisture &gt; 86.9" />
+      <node id="Brix &lt;= 10.6" label="Brix &lt;= 10.6" />
+      <node id="moisture &gt; 89.35" label="moisture &gt; 89.35" />
+      <node id="moisture &lt;= 89.35" label="moisture &lt;= 89.35" />
+      <node id="moisture &lt;= 86.35" label="moisture &lt;= 86.35" />
+      <node id="Pheno &lt;= 0.67" label="Pheno &lt;= 0.67" />
+      <node id="Brix &gt; 13.1" label="Brix &gt; 13.1" />
+      <node id="Tit Acid &lt;= 0.19" label="Tit Acid &lt;= 0.19" />
+      <node id="Brix &lt;= 10.1" label="Brix &lt;= 10.1" />
+      <node id="Brix &gt; 10.1" label="Brix &gt; 10.1" />
+      <node id="Pheno &lt;= 0.73" label="Pheno &lt;= 0.73" />
+      <node id="Pheno &gt; 0.66" label="Pheno &gt; 0.66" />
+      <node id="Tit Acid &lt;= 0.13" label="Tit Acid &lt;= 0.13" />
+      <node id="moisture &gt; 84.6" label="moisture &gt; 84.6" />
+      <node id="moisture &lt;= 84.6" label="moisture &lt;= 84.6" />
+      <node id="pH &gt; 5.17" label="pH &gt; 5.17" />
+      <node id="pH &lt;= 5.02" label="pH &lt;= 5.02" />
+      <node id="pH &gt; 5.02" label="pH &gt; 5.02" />
+      <node id="pH &lt;= 5.2" label="pH &lt;= 5.2" />
+      <node id="pH &lt;= 4.25" label="pH &lt;= 4.25" />
+      <node id="Pheno &gt; 0.63" label="Pheno &gt; 0.63" />
+      <node id="moisture &lt;= 88.59" label="moisture &lt;= 88.59" />
+      <node id="Tit Acid &gt; 0.13" label="Tit Acid &gt; 0.13" />
+      <node id="Brix &gt; 12.85" label="Brix &gt; 12.85" />
+      <node id="Pheno &lt;= 0.7" label="Pheno &lt;= 0.7" />
+      <node id="Pheno &gt; 0.7" label="Pheno &gt; 0.7" />
+      <node id="Brix &gt; 11.53" label="Brix &gt; 11.53" />
+      <node id="Tit Acid &gt; 0.29" label="Tit Acid &gt; 0.29" />
+      <node id="Pheno &lt;= 0.76" label="Pheno &lt;= 0.76" />
+      <node id="moisture &lt;= 86.88" label="moisture &lt;= 86.88" />
+      <node id="Pheno &lt;= 0.84" label="Pheno &lt;= 0.84" />
+      <node id="moisture &lt;= 86.07" label="moisture &lt;= 86.07" />
+      <node id="moisture &gt; 86.07" label="moisture &gt; 86.07" />
+      <node id="Tit Acid &gt; 0.27" label="Tit Acid &gt; 0.27" />
+      <node id="pH &gt; 3.9" label="pH &gt; 3.9" />
+      <node id="Pheno &gt; 0.76" label="Pheno &gt; 0.76" />
+      <node id="Brix &gt; 10.47" label="Brix &gt; 10.47" />
+      <node id="moisture &gt; 88.59" label="moisture &gt; 88.59" />
+      <node id="pH &gt; 4.75" label="pH &gt; 4.75" />
+      <node id="Brix &lt;= 13.1" label="Brix &lt;= 13.1" />
+      <node id="Brix &gt; 11.08" label="Brix &gt; 11.08" />
+      <node id="Tit Acid &gt; 0.15" label="Tit Acid &gt; 0.15" />
+      <node id="pH &lt;= 4.86" label="pH &lt;= 4.86" />
+      <node id="Brix &lt;= 11.53" label="Brix &lt;= 11.53" />
+      <node id="pH &gt; 4.86" label="pH &gt; 4.86" />
+      <node id="Pheno &gt; 0.59" label="Pheno &gt; 0.59" />
+      <node id="moisture &lt;= 82.23" label="moisture &lt;= 82.23" />
+      <node id="Brix &gt; 10.3" label="Brix &gt; 10.3" />
+      <node id="pH &lt;= 4.12" label="pH &lt;= 4.12" />
+      <node id="pH &gt; 4.12" label="pH &gt; 4.12" />
+      <node id="Pheno &gt; 0.78" label="Pheno &gt; 0.78" />
+      <node id="moisture &lt;= 88.24" label="moisture &lt;= 88.24" />
+      <node id="Brix &lt;= 11.08" label="Brix &lt;= 11.08" />
+      <node id="Tit Acid &lt;= 0.28" label="Tit Acid &lt;= 0.28" />
+      <node id="Pheno &gt; 0.6" label="Pheno &gt; 0.6" />
+      <node id="Brix &gt; 9.22" label="Brix &gt; 9.22" />
+      <node id="Tit Acid &lt;= 0.29" label="Tit Acid &lt;= 0.29" />
+      <node id="Pheno &lt;= 0.59" label="Pheno &lt;= 0.59" />
+      <node id="pH &gt; 5.2" label="pH &gt; 5.2" />
+      <node id="Brix &lt;= 12.85" label="Brix &lt;= 12.85" />
+      <node id="Pheno &gt; 0.84" label="Pheno &gt; 0.84" />
+      <node id="pH &gt; 4.85" label="pH &gt; 4.85" />
+      <node id="Pheno &lt;= 0.6" label="Pheno &lt;= 0.6" />
+      <node id="pH &gt; 5.32" label="pH &gt; 5.32" />
+      <node id="Brix &lt;= 11.28" label="Brix &lt;= 11.28" />
+      <node id="Brix &gt; 9.88" label="Brix &gt; 9.88" />
+      <node id="Brix &gt; 9.28" label="Brix &gt; 9.28" />
+      <node id="moisture &lt;= 87.83" label="moisture &lt;= 87.83" />
+      <node id="Tit Acid &lt;= 0.27" label="Tit Acid &lt;= 0.27" />
+      <node id="pH &lt;= 4.85" label="pH &lt;= 4.85" />
+      <node id="pH &lt;= 4.32" label="pH &lt;= 4.32" />
+      <node id="moisture &gt; 87.78" label="moisture &gt; 87.78" />
+      <node id="moisture &lt;= 87.78" label="moisture &lt;= 87.78" />
+      <node id="moisture &gt; 87.83" label="moisture &gt; 87.83" />
+      <node id="moisture &gt; 82.23" label="moisture &gt; 82.23" />
+      <node id="Tit Acid &lt;= 0.18" label="Tit Acid &lt;= 0.18" />
+      <node id="Brix &lt;= 9.88" label="Brix &lt;= 9.88" />
+      <node id="pH &gt; 4.25" label="pH &gt; 4.25" />
+      <node id="Tit Acid &gt; 0.18" label="Tit Acid &gt; 0.18" />
+      <node id="Tit Acid &gt; 0.28" label="Tit Acid &gt; 0.28" />
+      <node id="pH &gt; 4.32" label="pH &gt; 4.32" />
+      <node id="pH &lt;= 3.96" label="pH &lt;= 3.96" />
+      <node id="moisture &gt; 87.68" label="moisture &gt; 87.68" />
+      <node id="pH &lt;= 4.75" label="pH &lt;= 4.75" />
+    </nodes>
+    <edges>
+      <edge source="Pheno &gt; 0.72" target="Class 1" id="0" weight="2.0" />
+      <edge source="Pheno &gt; 0.72" target="Class 2" id="1" weight="20.0" />
+      <edge source="pH &gt; 3.96" target="Class 1" id="2" weight="10.0" />
+      <edge source="Brix &lt;= 10.47" target="Brix &lt;= 8.88" id="3" weight="2.0" />
+      <edge source="Brix &lt;= 10.47" target="Brix &gt; 8.88" id="4" weight="14.0" />
+      <edge source="Brix &lt;= 8.88" target="Pheno &gt; 0.72" id="5" weight="1.0" />
+      <edge source="Brix &lt;= 8.88" target="Pheno &lt;= 0.72" id="6" weight="1.0" />
+      <edge source="Brix &gt; 8.88" target="Pheno &lt;= 0.76" id="7" weight="6.0" />
+      <edge source="Brix &gt; 8.88" target="Pheno &gt; 0.76" id="8" weight="8.0" />
+      <edge source="moisture &gt; 86.88" target="Pheno &gt; 0.72" id="9" weight="5.0" />
+      <edge source="moisture &gt; 86.88" target="Pheno &lt;= 0.72" id="10" weight="4.0" />
+      <edge source="Pheno &lt;= 0.72" target="moisture &gt; 88.24" id="11" weight="2.0" />
+      <edge source="Pheno &lt;= 0.72" target="Class 4" id="12" weight="15.0" />
+      <edge source="Pheno &lt;= 0.72" target="moisture &lt;= 88.24" id="13" weight="2.0" />
+      <edge source="Pheno &lt;= 0.72" target="Class 2" id="14" weight="1.0" />
+      <edge source="Brix &lt;= 10.3" target="Class 2" id="15" weight="1.0" />
+      <edge source="moisture &lt;= 73.5" target="Class 3" id="16" weight="1.0" />
+      <edge source="pH &lt;= 3.9" target="Tit Acid &gt; 0.34" id="17" weight="6.0" />
+      <edge source="pH &lt;= 3.9" target="Tit Acid &lt;= 0.34" id="18" weight="1.0" />
+      <edge source="Tit Acid &gt; 0.34" target="Class 0" id="19" weight="6.0" />
+      <edge source="Tit Acid &lt;= 0.34" target="Class 1" id="20" weight="1.0" />
+      <edge source="Pheno &lt;= 0.63" target="Pheno &gt; 0.62" id="21" weight="1.0" />
+      <edge source="Pheno &lt;= 0.63" target="Pheno &lt;= 0.62" id="22" weight="3.0" />
+      <edge source="Pheno &gt; 0.62" target="Class 1" id="23" weight="1.0" />
+      <edge source="Pheno &lt;= 0.62" target="Class 0" id="24" weight="3.0" />
+      <edge source="Brix &gt; 10.6" target="Tit Acid &gt; 0.14" id="25" weight="2.0" />
+      <edge source="Brix &gt; 10.6" target="Tit Acid &lt;= 0.14" id="26" weight="4.0" />
+      <edge source="Tit Acid &gt; 0.14" target="Class 2" id="27" weight="2.0" />
+      <edge source="Tit Acid &lt;= 0.14" target="Pheno &lt;= 0.76" id="28" weight="3.0" />
+      <edge source="Tit Acid &lt;= 0.14" target="Pheno &gt; 0.76" id="29" weight="1.0" />
+      <edge source="Pheno &lt;= 0.78" target="Pheno &gt; 0.68" id="30" weight="7.0" />
+      <edge source="Pheno &lt;= 0.78" target="Pheno &lt;= 0.68" id="31" weight="1.0" />
+      <edge source="Pheno &gt; 0.68" target="Class 2" id="32" weight="7.0" />
+      <edge source="Pheno &lt;= 0.68" target="Class 3" id="33" weight="1.0" />
+      <edge source="moisture &gt; 88.08" target="Class 2" id="34" weight="5.0" />
+      <edge source="pH &gt; 5.16" target="Tit Acid &lt;= 0.11" id="35" weight="12.0" />
+      <edge source="pH &gt; 5.16" target="Tit Acid &gt; 0.11" id="36" weight="19.0" />
+      <edge source="Tit Acid &lt;= 0.11" target="Class 4" id="37" weight="24.0" />
+      <edge source="Tit Acid &lt;= 0.11" target="Pheno &lt;= 0.77" id="38" weight="11.0" />
+      <edge source="Tit Acid &lt;= 0.11" target="Pheno &gt; 0.77" id="39" weight="1.0" />
+      <edge source="Tit Acid &gt; 0.11" target="Brix &lt;= 10.47" id="40" weight="16.0" />
+      <edge source="Tit Acid &gt; 0.11" target="Brix &gt; 10.6" id="41" weight="6.0" />
+      <edge source="Tit Acid &gt; 0.11" target="Tit Acid &lt;= 0.15" id="42" weight="30.0" />
+      <edge source="Tit Acid &gt; 0.11" target="Brix &lt;= 10.6" id="43" weight="13.0" />
+      <edge source="Tit Acid &gt; 0.11" target="Brix &gt; 10.47" id="44" weight="29.0" />
+      <edge source="Tit Acid &gt; 0.11" target="Tit Acid &gt; 0.15" id="45" weight="13.0" />
+      <edge source="pH &lt;= 5.32" target="Class 4" id="46" weight="3.0" />
+      <edge source="moisture &gt; 88.24" target="Class 2" id="47" weight="2.0" />
+      <edge source="moisture &lt;= 87.68" target="Brix &gt; 10.88" id="48" weight="4.0" />
+      <edge source="moisture &lt;= 87.68" target="Brix &lt;= 10.88" id="49" weight="3.0" />
+      <edge source="Brix &gt; 10.88" target="Class 3" id="50" weight="4.0" />
+      <edge source="Brix &lt;= 10.88" target="Class 2" id="51" weight="3.0" />
+      <edge source="pH &lt;= 5.16" target="Brix &gt; 11.24" id="52" weight="12.0" />
+      <edge source="pH &lt;= 5.16" target="Brix &lt;= 11.24" id="53" weight="15.0" />
+      <edge source="Brix &gt; 11.24" target="Class 2" id="54" weight="12.0" />
+      <edge source="Brix &lt;= 11.24" target="Pheno &lt;= 0.78" id="55" weight="8.0" />
+      <edge source="Brix &lt;= 11.24" target="Pheno &gt; 0.78" id="56" weight="7.0" />
+      <edge source="Pheno &gt; 0.67" target="Class 1" id="57" weight="16.0" />
+      <edge source="Pheno &gt; 0.67" target="moisture &lt;= 85.15" id="58" weight="1.0" />
+      <edge source="Pheno &gt; 0.67" target="moisture &gt; 85.15" id="59" weight="2.0" />
+      <edge source="moisture &lt;= 85.15" target="Class 3" id="60" weight="1.0" />
+      <edge source="moisture &gt; 85.15" target="Class 2" id="61" weight="2.0" />
+      <edge source="Brix &lt;= 9.28" target="Class 3" id="62" weight="1.0" />
+      <edge source="Tit Acid &lt;= 0.15" target="Pheno &lt;= 0.77" id="63" weight="15.0" />
+      <edge source="Tit Acid &lt;= 0.15" target="Class 3" id="64" weight="7.0" />
+      <edge source="Tit Acid &lt;= 0.15" target="Pheno &gt; 0.77" id="65" weight="15.0" />
+      <edge source="Pheno &lt;= 0.77" target="Class 4" id="66" weight="11.0" />
+      <edge source="Pheno &lt;= 0.77" target="Class 3" id="67" weight="15.0" />
+      <edge source="Pheno &gt; 0.77" target="moisture &lt;= 87.68" id="68" weight="7.0" />
+      <edge source="Pheno &gt; 0.77" target="Class 2" id="69" weight="1.0" />
+      <edge source="Pheno &gt; 0.77" target="moisture &gt; 87.68" id="70" weight="8.0" />
+      <edge source="moisture &gt; 86.35" target="Class 3" id="71" weight="1.0" />
+      <edge source="moisture &gt; 73.5" target="Class 1" id="72" weight="15.0" />
+      <edge source="Pheno &gt; 0.73" target="moisture &gt; 88.08" id="73" weight="5.0" />
+      <edge source="Pheno &gt; 0.73" target="moisture &lt;= 88.08" id="74" weight="7.0" />
+      <edge source="Pheno &gt; 0.73" target="Class 2" id="75" weight="10.0" />
+      <edge source="moisture &lt;= 88.08" target="Class 3" id="76" weight="7.0" />
+      <edge source="Pheno &lt;= 0.66" target="Class 2" id="77" weight="14.0" />
+      <edge source="pH &lt;= 5.17" target="pH &lt;= 5.0" id="78" weight="11.0" />
+      <edge source="pH &lt;= 5.17" target="pH &gt; 5.0" id="79" weight="18.0" />
+      <edge source="pH &lt;= 5.0" target="Brix &gt; 11.08" id="80" weight="7.0" />
+      <edge source="pH &lt;= 5.0" target="Brix &lt;= 11.08" id="81" weight="4.0" />
+      <edge source="pH &gt; 5.0" target="moisture &gt; 86.88" id="82" weight="9.0" />
+      <edge source="pH &gt; 5.0" target="moisture &lt;= 86.88" id="83" weight="9.0" />
+      <edge source="Brix &lt;= 9.22" target="moisture &lt;= 86.9" id="84" weight="2.0" />
+      <edge source="Brix &lt;= 9.22" target="moisture &gt; 86.9" id="85" weight="5.0" />
+      <edge source="moisture &lt;= 86.9" target="Class 2" id="86" weight="2.0" />
+      <edge source="moisture &gt; 86.9" target="Class 4" id="87" weight="5.0" />
+      <edge source="Brix &lt;= 10.6" target="moisture &gt; 89.35" id="88" weight="3.0" />
+      <edge source="Brix &lt;= 10.6" target="moisture &lt;= 89.35" id="89" weight="10.0" />
+      <edge source="moisture &gt; 89.35" target="Class 3" id="90" weight="3.0" />
+      <edge source="moisture &lt;= 89.35" target="Class 2" id="91" weight="10.0" />
+      <edge source="moisture &lt;= 86.35" target="Pheno &gt; 0.67" id="92" weight="3.0" />
+      <edge source="moisture &lt;= 86.35" target="Pheno &lt;= 0.67" id="93" weight="4.0" />
+      <edge source="Pheno &lt;= 0.67" target="pH &lt;= 4.12" id="94" weight="1.0" />
+      <edge source="Pheno &lt;= 0.67" target="pH &gt; 4.12" id="95" weight="6.0" />
+      <edge source="Pheno &lt;= 0.67" target="Class 2" id="96" weight="4.0" />
+      <edge source="Brix &gt; 13.1" target="Class 2" id="97" weight="1.0" />
+      <edge source="Tit Acid &lt;= 0.19" target="Brix &lt;= 10.1" id="98" weight="2.0" />
+      <edge source="Tit Acid &lt;= 0.19" target="Brix &gt; 10.1" id="99" weight="6.0" />
+      <edge source="Brix &lt;= 10.1" target="Brix &gt; 9.88" id="100" weight="1.0" />
+      <edge source="Brix &lt;= 10.1" target="Brix &lt;= 9.88" id="101" weight="1.0" />
+      <edge source="Brix &gt; 10.1" target="Class 2" id="102" weight="6.0" />
+      <edge source="Pheno &lt;= 0.73" target="Class 4" id="103" weight="4.0" />
+      <edge source="Pheno &lt;= 0.73" target="Pheno &lt;= 0.66" id="104" weight="7.0" />
+      <edge source="Pheno &lt;= 0.73" target="Pheno &gt; 0.66" id="105" weight="8.0" />
+      <edge source="Pheno &gt; 0.66" target="Class 1" id="106" weight="18.0" />
+      <edge source="Pheno &gt; 0.66" target="pH &lt;= 5.02" id="107" weight="7.0" />
+      <edge source="Pheno &gt; 0.66" target="pH &gt; 5.02" id="108" weight="1.0" />
+      <edge source="Tit Acid &lt;= 0.13" target="moisture &gt; 84.6" id="109" weight="4.0" />
+      <edge source="Tit Acid &lt;= 0.13" target="moisture &lt;= 84.6" id="110" weight="2.0" />
+      <edge source="moisture &gt; 84.6" target="pH &lt;= 5.32" id="111" weight="3.0" />
+      <edge source="moisture &gt; 84.6" target="pH &gt; 5.32" id="112" weight="1.0" />
+      <edge source="moisture &lt;= 84.6" target="Class 4" id="113" weight="2.0" />
+      <edge source="pH &gt; 5.17" target="Pheno &gt; 0.72" id="114" weight="14.0" />
+      <edge source="pH &gt; 5.17" target="Pheno &lt;= 0.72" id="115" weight="14.0" />
+      <edge source="pH &lt;= 5.02" target="Class 2" id="116" weight="7.0" />
+      <edge source="pH &gt; 5.02" target="Class 3" id="117" weight="1.0" />
+      <edge source="pH &lt;= 5.2" target="Pheno &gt; 0.73" id="118" weight="12.0" />
+      <edge source="pH &lt;= 5.2" target="Pheno &lt;= 0.73" id="119" weight="15.0" />
+      <edge source="pH &lt;= 4.25" target="Pheno &lt;= 0.63" id="120" weight="4.0" />
+      <edge source="pH &lt;= 4.25" target="Pheno &gt; 0.63" id="121" weight="16.0" />
+      <edge source="Pheno &gt; 0.63" target="Class 0" id="122" weight="16.0" />
+      <edge source="moisture &lt;= 88.59" target="Tit Acid &lt;= 0.13" id="123" weight="6.0" />
+      <edge source="moisture &lt;= 88.59" target="Tit Acid &gt; 0.13" id="124" weight="17.0" />
+      <edge source="Tit Acid &gt; 0.13" target="Tit Acid &lt;= 0.15" id="125" weight="7.0" />
+      <edge source="Tit Acid &gt; 0.13" target="Tit Acid &gt; 0.15" id="126" weight="10.0" />
+      <edge source="Brix &gt; 12.85" target="Pheno &lt;= 0.7" id="127" weight="4.0" />
+      <edge source="Brix &gt; 12.85" target="Pheno &gt; 0.7" id="128" weight="2.0" />
+      <edge source="Pheno &lt;= 0.7" target="Class 2" id="129" weight="4.0" />
+      <edge source="Pheno &gt; 0.7" target="Class 1" id="130" weight="2.0" />
+      <edge source="Brix &gt; 11.53" target="Class 2" id="131" weight="5.0" />
+      <edge source="Tit Acid &gt; 0.29" target="Class 0" id="132" weight="16.0" />
+      <edge source="Pheno &lt;= 0.76" target="Class 4" id="133" weight="3.0" />
+      <edge source="Pheno &lt;= 0.76" target="Class 2" id="134" weight="6.0" />
+      <edge source="moisture &lt;= 86.88" target="Class 3" id="135" weight="9.0" />
+      <edge source="Pheno &lt;= 0.84" target="moisture &lt;= 86.07" id="136" weight="8.0" />
+      <edge source="Pheno &lt;= 0.84" target="moisture &gt; 86.07" id="137" weight="16.0" />
+      <edge source="moisture &lt;= 86.07" target="Tit Acid &lt;= 0.28" id="138" weight="4.0" />
+      <edge source="moisture &lt;= 86.07" target="Tit Acid &gt; 0.28" id="139" weight="4.0" />
+      <edge source="moisture &gt; 86.07" target="pH &lt;= 4.32" id="140" weight="13.0" />
+      <edge source="moisture &gt; 86.07" target="pH &gt; 4.32" id="141" weight="3.0" />
+      <edge source="Tit Acid &gt; 0.27" target="pH &lt;= 3.9" id="142" weight="7.0" />
+      <edge source="Tit Acid &gt; 0.27" target="pH &gt; 3.9" id="143" weight="11.0" />
+      <edge source="pH &gt; 3.9" target="Class 0" id="144" weight="11.0" />
+      <edge source="Pheno &gt; 0.76" target="pH &gt; 4.85" id="145" weight="7.0" />
+      <edge source="Pheno &gt; 0.76" target="pH &lt;= 4.85" id="146" weight="1.0" />
+      <edge source="Pheno &gt; 0.76" target="Class 2" id="147" weight="1.0" />
+      <edge source="Brix &gt; 10.47" target="moisture &lt;= 88.59" id="148" weight="23.0" />
+      <edge source="Brix &gt; 10.47" target="moisture &gt; 88.59" id="149" weight="6.0" />
+      <edge source="moisture &gt; 88.59" target="Class 2" id="150" weight="6.0" />
+      <edge source="pH &gt; 4.75" target="pH &gt; 5.16" id="151" weight="31.0" />
+      <edge source="pH &gt; 4.75" target="pH &lt;= 5.16" id="152" weight="27.0" />
+      <edge source="Brix &lt;= 13.1" target="moisture &lt;= 73.5" id="153" weight="1.0" />
+      <edge source="Brix &lt;= 13.1" target="moisture &gt; 73.5" id="154" weight="15.0" />
+      <edge source="Brix &gt; 11.08" target="Class 2" id="155" weight="7.0" />
+      <edge source="Tit Acid &gt; 0.15" target="Brix &gt; 11.53" id="156" weight="5.0" />
+      <edge source="Tit Acid &gt; 0.15" target="pH &lt;= 4.86" id="157" weight="2.0" />
+      <edge source="Tit Acid &gt; 0.15" target="Brix &lt;= 11.53" id="158" weight="8.0" />
+      <edge source="Tit Acid &gt; 0.15" target="pH &gt; 4.86" id="159" weight="8.0" />
+      <edge source="pH &lt;= 4.86" target="Class 1" id="160" weight="2.0" />
+      <edge source="Brix &lt;= 11.53" target="Brix &lt;= 11.28" id="161" weight="8.0" />
+      <edge source="pH &gt; 4.86" target="moisture &gt; 86.35" id="162" weight="1.0" />
+      <edge source="pH &gt; 4.86" target="moisture &lt;= 86.35" id="163" weight="7.0" />
+      <edge source="Pheno &gt; 0.59" target="Pheno &gt; 0.67" id="164" weight="16.0" />
+      <edge source="Pheno &gt; 0.59" target="Pheno &lt;= 0.67" id="165" weight="7.0" />
+      <edge source="moisture &lt;= 82.23" target="Pheno &gt; 0.72" id="166" weight="2.0" />
+      <edge source="moisture &lt;= 82.23" target="Pheno &lt;= 0.72" id="167" weight="1.0" />
+      <edge source="Brix &gt; 10.3" target="Class 3" id="168" weight="6.0" />
+      <edge source="pH &lt;= 4.12" target="Class 1" id="169" weight="1.0" />
+      <edge source="pH &gt; 4.12" target="Class 0" id="170" weight="6.0" />
+      <edge source="Pheno &gt; 0.78" target="Brix &lt;= 10.3" id="171" weight="1.0" />
+      <edge source="Pheno &gt; 0.78" target="Brix &gt; 10.3" id="172" weight="6.0" />
+      <edge source="moisture &lt;= 88.24" target="Class 3" id="173" weight="2.0" />
+      <edge source="Brix &lt;= 11.08" target="Class 1" id="174" weight="4.0" />
+      <edge source="Tit Acid &lt;= 0.28" target="Class 1" id="175" weight="4.0" />
+      <edge source="Pheno &gt; 0.6" target="Brix &lt;= 9.22" id="176" weight="7.0" />
+      <edge source="Pheno &gt; 0.6" target="Brix &gt; 9.22" id="177" weight="42.0" />
+      <edge source="Brix &gt; 9.22" target="Brix &lt;= 9.28" id="178" weight="1.0" />
+      <edge source="Brix &gt; 9.22" target="Brix &gt; 9.28" id="179" weight="41.0" />
+      <edge source="Tit Acid &lt;= 0.29" target="Pheno &gt; 0.59" id="180" weight="23.0" />
+      <edge source="Tit Acid &lt;= 0.29" target="Pheno &lt;= 0.59" id="181" weight="1.0" />
+      <edge source="Pheno &lt;= 0.59" target="Class 0" id="182" weight="1.0" />
+      <edge source="pH &gt; 5.2" target="Pheno &gt; 0.73" id="183" weight="10.0" />
+      <edge source="pH &gt; 5.2" target="Pheno &lt;= 0.73" id="184" weight="4.0" />
+      <edge source="Brix &lt;= 12.85" target="Pheno &lt;= 0.84" id="185" weight="24.0" />
+      <edge source="Brix &lt;= 12.85" target="Pheno &gt; 0.84" id="186" weight="1.0" />
+      <edge source="Pheno &gt; 0.84" target="Class 1" id="187" weight="1.0" />
+      <edge source="pH &gt; 4.85" target="Tit Acid &lt;= 0.11" id="188" weight="12.0" />
+      <edge source="pH &gt; 4.85" target="Tit Acid &gt; 0.11" id="189" weight="43.0" />
+      <edge source="pH &gt; 4.85" target="Pheno &gt; 0.6" id="190" weight="49.0" />
+      <edge source="pH &gt; 4.85" target="Class 2" id="191" weight="7.0" />
+      <edge source="pH &gt; 4.85" target="Pheno &lt;= 0.6" id="192" weight="6.0" />
+      <edge source="Pheno &lt;= 0.6" target="Class 4" id="193" weight="6.0" />
+      <edge source="pH &gt; 5.32" target="Class 2" id="194" weight="1.0" />
+      <edge source="Brix &lt;= 11.28" target="Tit Acid &lt;= 0.19" id="195" weight="8.0" />
+      <edge source="Brix &gt; 9.88" target="Class 3" id="196" weight="1.0" />
+      <edge source="Brix &gt; 9.28" target="pH &lt;= 5.2" id="197" weight="27.0" />
+      <edge source="Brix &gt; 9.28" target="pH &gt; 5.2" id="198" weight="14.0" />
+      <edge source="moisture &lt;= 87.83" target="Brix &gt; 12.85" id="199" weight="6.0" />
+      <edge source="moisture &lt;= 87.83" target="Brix &lt;= 12.85" id="200" weight="25.0" />
+      <edge source="Tit Acid &lt;= 0.27" target="pH &gt; 4.85" id="201" weight="55.0" />
+      <edge source="Tit Acid &lt;= 0.27" target="pH &lt;= 4.85" id="202" weight="25.0" />
+      <edge source="pH &lt;= 4.85" target="Pheno &lt;= 0.66" id="203" weight="7.0" />
+      <edge source="pH &lt;= 4.85" target="Pheno &gt; 0.66" id="204" weight="18.0" />
+      <edge source="pH &lt;= 4.85" target="Class 1" id="205" weight="1.0" />
+      <edge source="pH &lt;= 4.85" target="moisture &lt;= 87.83" id="206" weight="31.0" />
+      <edge source="pH &lt;= 4.85" target="moisture &gt; 87.83" id="207" weight="12.0" />
+      <edge source="pH &lt;= 4.32" target="Class 0" id="208" weight="13.0" />
+      <edge source="pH &lt;= 4.32" target="moisture &gt; 87.78" id="209" weight="4.0" />
+      <edge source="pH &lt;= 4.32" target="moisture &lt;= 87.78" id="210" weight="20.0" />
+      <edge source="moisture &gt; 87.78" target="Class 1" id="211" weight="4.0" />
+      <edge source="moisture &lt;= 87.78" target="Class 0" id="212" weight="20.0" />
+      <edge source="moisture &gt; 87.83" target="pH &gt; 3.96" id="213" weight="10.0" />
+      <edge source="moisture &gt; 87.83" target="pH &lt;= 3.96" id="214" weight="2.0" />
+      <edge source="moisture &gt; 82.23" target="Class 1" id="215" weight="18.0" />
+      <edge source="Tit Acid &lt;= 0.18" target="pH &lt;= 5.17" id="216" weight="29.0" />
+      <edge source="Tit Acid &lt;= 0.18" target="Tit Acid &lt;= 0.11" id="217" weight="12.0" />
+      <edge source="Tit Acid &lt;= 0.18" target="pH &gt; 5.17" id="218" weight="28.0" />
+      <edge source="Tit Acid &lt;= 0.18" target="Tit Acid &gt; 0.11" id="219" weight="45.0" />
+      <edge source="Brix &lt;= 9.88" target="Class 2" id="220" weight="1.0" />
+      <edge source="pH &gt; 4.25" target="Tit Acid &lt;= 0.18" id="221" weight="57.0" />
+      <edge source="pH &gt; 4.25" target="Tit Acid &gt; 0.18" id="222" weight="21.0" />
+      <edge source="Tit Acid &gt; 0.18" target="moisture &lt;= 82.23" id="223" weight="3.0" />
+      <edge source="Tit Acid &gt; 0.18" target="pH &lt;= 4.32" id="224" weight="24.0" />
+      <edge source="Tit Acid &gt; 0.18" target="moisture &gt; 82.23" id="225" weight="18.0" />
+      <edge source="Tit Acid &gt; 0.18" target="pH &gt; 4.32" id="226" weight="17.0" />
+      <edge source="Tit Acid &gt; 0.28" target="Class 0" id="227" weight="4.0" />
+      <edge source="pH &gt; 4.32" target="Brix &gt; 13.1" id="228" weight="1.0" />
+      <edge source="pH &gt; 4.32" target="Class 1" id="229" weight="3.0" />
+      <edge source="pH &gt; 4.32" target="Brix &lt;= 13.1" id="230" weight="16.0" />
+      <edge source="pH &lt;= 3.96" target="Class 0" id="231" weight="2.0" />
+      <edge source="moisture &gt; 87.68" target="Class 2" id="232" weight="8.0" />
+      <edge source="pH &lt;= 4.75" target="Tit Acid &gt; 0.29" id="233" weight="16.0" />
+      <edge source="pH &lt;= 4.75" target="Tit Acid &lt;= 0.29" id="234" weight="24.0" />
+    </edges>
+  </graph>
+</gexf>

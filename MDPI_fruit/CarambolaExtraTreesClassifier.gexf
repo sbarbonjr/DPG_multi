@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Titrable acidity (%) &lt;= 0.45" label="Titrable acidity (%) &lt;= 0.45" />
+      <node id="L* &lt;= 39.2" label="L* &lt;= 39.2" />
+      <node id="L* &gt; 39.2" label="L* &gt; 39.2" />
+      <node id="Titrable acidity (%) &gt; 0.5" label="Titrable acidity (%) &gt; 0.5" />
+      <node id="h (hue) &gt; 97.75" label="h (hue) &gt; 97.75" />
+      <node id="h (hue) &lt;= 97.75" label="h (hue) &lt;= 97.75" />
+      <node id="pH &lt;= 3.59" label="pH &lt;= 3.59" />
+      <node id="moisture (%) &gt; 85.22" label="moisture (%) &gt; 85.22" />
+      <node id="moisture (%) &lt;= 85.22" label="moisture (%) &lt;= 85.22" />
+      <node id="b* &gt; 34.53" label="b* &gt; 34.53" />
+      <node id="Class 1" label="Class 1" />
+      <node id="pH &lt;= 4.06" label="pH &lt;= 4.06" />
+      <node id="moisture (%) &gt; 89.15" label="moisture (%) &gt; 89.15" />
+      <node id="moisture (%) &lt;= 89.15" label="moisture (%) &lt;= 89.15" />
+      <node id="a* &lt;= -4.48" label="a* &lt;= -4.48" />
+      <node id="Class 0" label="Class 0" />
+      <node id="h (hue) &lt;= 91.91" label="h (hue) &lt;= 91.91" />
+      <node id="Ascorbic acid (%) &lt;= 0.36" label="Ascorbic acid (%) &lt;= 0.36" />
+      <node id="Ascorbic acid (%) &gt; 0.36" label="Ascorbic acid (%) &gt; 0.36" />
+      <node id="Class 2" label="Class 2" />
+      <node id="moisture (%) &lt;= 89.5" label="moisture (%) &lt;= 89.5" />
+      <node id="Soluble solids (Brix) &lt;= 7.54" label="Soluble solids (Brix) &lt;= 7.54" />
+      <node id="a* &gt; -0.86" label="a* &gt; -0.86" />
+      <node id="pH &gt; 3.07" label="pH &gt; 3.07" />
+      <node id="h (hue) &gt; 88.23" label="h (hue) &gt; 88.23" />
+      <node id="moisture (%) &gt; 89.5" label="moisture (%) &gt; 89.5" />
+      <node id="L* &gt; 46.5" label="L* &gt; 46.5" />
+      <node id="moisture (%) &gt; 85.09" label="moisture (%) &gt; 85.09" />
+      <node id="Titrable acidity (%) &lt;= 0.53" label="Titrable acidity (%) &lt;= 0.53" />
+      <node id="h (hue) &lt;= 92.81" label="h (hue) &lt;= 92.81" />
+      <node id="h (hue) &gt; 92.81" label="h (hue) &gt; 92.81" />
+      <node id="L* &lt;= 44.07" label="L* &lt;= 44.07" />
+      <node id="b* &gt; 37.72" label="b* &gt; 37.72" />
+      <node id="b* &lt;= 34.68" label="b* &lt;= 34.68" />
+      <node id="pH &lt;= 3.46" label="pH &lt;= 3.46" />
+      <node id="L* &gt; 43.78" label="L* &gt; 43.78" />
+      <node id="L* &lt;= 43.78" label="L* &lt;= 43.78" />
+      <node id="h (hue) &gt; 96.92" label="h (hue) &gt; 96.92" />
+      <node id="Titrable acidity (%) &gt; 0.54" label="Titrable acidity (%) &gt; 0.54" />
+      <node id="Titrable acidity (%) &lt;= 0.54" label="Titrable acidity (%) &lt;= 0.54" />
+      <node id="Soluble solids (Brix) &lt;= 11.46" label="Soluble solids (Brix) &lt;= 11.46" />
+      <node id="h (hue) &lt;= 92.27" label="h (hue) &lt;= 92.27" />
+      <node id="h (hue) &gt; 92.27" label="h (hue) &gt; 92.27" />
+      <node id="pH &lt;= 3.13" label="pH &lt;= 3.13" />
+      <node id="L* &lt;= 46.5" label="L* &lt;= 46.5" />
+      <node id="Soluble solids (Brix) &lt;= 9.19" label="Soluble solids (Brix) &lt;= 9.19" />
+      <node id="Soluble solids (Brix) &gt; 8.3" label="Soluble solids (Brix) &gt; 8.3" />
+      <node id="Soluble solids (Brix) &lt;= 8.3" label="Soluble solids (Brix) &lt;= 8.3" />
+      <node id="h (hue) &gt; 83.31" label="h (hue) &gt; 83.31" />
+      <node id="Soluble solids (Brix) &lt;= 10.52" label="Soluble solids (Brix) &lt;= 10.52" />
+      <node id="Soluble solids (Brix) &gt; 10.52" label="Soluble solids (Brix) &gt; 10.52" />
+      <node id="h (hue) &lt;= 80.21" label="h (hue) &lt;= 80.21" />
+      <node id="Class 3" label="Class 3" />
+      <node id="h (hue) &lt;= 101.33" label="h (hue) &lt;= 101.33" />
+      <node id="a* &gt; -6.18" label="a* &gt; -6.18" />
+      <node id="a* &lt;= -6.18" label="a* &lt;= -6.18" />
+      <node id="pH &gt; 3.65" label="pH &gt; 3.65" />
+      <node id="Soluble solids (Brix) &lt;= 10.66" label="Soluble solids (Brix) &lt;= 10.66" />
+      <node id="Soluble solids (Brix) &gt; 10.66" label="Soluble solids (Brix) &gt; 10.66" />
+      <node id="h (hue) &gt; 86.28" label="h (hue) &gt; 86.28" />
+      <node id="Soluble solids (Brix) &gt; 11.46" label="Soluble solids (Brix) &gt; 11.46" />
+      <node id="C &gt; 34.71" label="C &gt; 34.71" />
+      <node id="L* &gt; 45.01" label="L* &gt; 45.01" />
+      <node id="C &gt; 32.33" label="C &gt; 32.33" />
+      <node id="pH &gt; 3.46" label="pH &gt; 3.46" />
+      <node id="Titrable acidity (%) &lt;= 0.38" label="Titrable acidity (%) &lt;= 0.38" />
+      <node id="pH &gt; 3.59" label="pH &gt; 3.59" />
+      <node id="L* &gt; 41.32" label="L* &gt; 41.32" />
+      <node id="a* &lt;= 0.41" label="a* &lt;= 0.41" />
+      <node id="a* &gt; 0.41" label="a* &gt; 0.41" />
+      <node id="moisture (%) &lt;= 86.96" label="moisture (%) &lt;= 86.96" />
+      <node id="moisture (%) &gt; 86.96" label="moisture (%) &gt; 86.96" />
+      <node id="h (hue) &gt; 94.51" label="h (hue) &gt; 94.51" />
+      <node id="C &lt;= 39.51" label="C &lt;= 39.51" />
+      <node id="Soluble solids (Brix) &lt;= 11.25" label="Soluble solids (Brix) &lt;= 11.25" />
+      <node id="Soluble solids (Brix) &gt; 11.25" label="Soluble solids (Brix) &gt; 11.25" />
+      <node id="a* &lt;= 4.78" label="a* &lt;= 4.78" />
+      <node id="Soluble solids (Brix) &lt;= 9.71" label="Soluble solids (Brix) &lt;= 9.71" />
+      <node id="h (hue) &gt; 91.91" label="h (hue) &gt; 91.91" />
+      <node id="h (hue) &gt; 90.52" label="h (hue) &gt; 90.52" />
+      <node id="Titrable acidity (%) &lt;= 0.5" label="Titrable acidity (%) &lt;= 0.5" />
+      <node id="Ascorbic acid (%) &gt; 0.1" label="Ascorbic acid (%) &gt; 0.1" />
+      <node id="h (hue) &lt;= 90.52" label="h (hue) &lt;= 90.52" />
+      <node id="b* &lt;= 33.99" label="b* &lt;= 33.99" />
+      <node id="C &lt;= 32.33" label="C &lt;= 32.33" />
+      <node id="L* &gt; 31.05" label="L* &gt; 31.05" />
+      <node id="Ascorbic acid (%) &gt; 0.26" label="Ascorbic acid (%) &gt; 0.26" />
+      <node id="Ascorbic acid (%) &lt;= 0.26" label="Ascorbic acid (%) &lt;= 0.26" />
+      <node id="pH &lt;= 2.96" label="pH &lt;= 2.96" />
+      <node id="h (hue) &gt; 91.66" label="h (hue) &gt; 91.66" />
+      <node id="pH &lt;= 3.65" label="pH &lt;= 3.65" />
+      <node id="h (hue) &gt; 92.24" label="h (hue) &gt; 92.24" />
+      <node id="Ascorbic acid (%) &lt;= 0.55" label="Ascorbic acid (%) &lt;= 0.55" />
+      <node id="Soluble solids (Brix) &gt; 9.71" label="Soluble solids (Brix) &gt; 9.71" />
+      <node id="L* &lt;= 38.93" label="L* &lt;= 38.93" />
+      <node id="h (hue) &lt;= 80.15" label="h (hue) &lt;= 80.15" />
+      <node id="h (hue) &gt; 80.15" label="h (hue) &gt; 80.15" />
+      <node id="h (hue) &lt;= 86.01" label="h (hue) &lt;= 86.01" />
+      <node id="pH &lt;= 3.52" label="pH &lt;= 3.52" />
+      <node id="pH &gt; 3.52" label="pH &gt; 3.52" />
+      <node id="L* &lt;= 38.7" label="L* &lt;= 38.7" />
+      <node id="a* &gt; -0.82" label="a* &gt; -0.82" />
+      <node id="pH &gt; 3.19" label="pH &gt; 3.19" />
+      <node id="C &gt; 39.51" label="C &gt; 39.51" />
+      <node id="a* &lt;= -0.86" label="a* &lt;= -0.86" />
+      <node id="C &lt;= 28.41" label="C &lt;= 28.41" />
+      <node id="h (hue) &lt;= 83.98" label="h (hue) &lt;= 83.98" />
+      <node id="moisture (%) &gt; 85.15" label="moisture (%) &gt; 85.15" />
+      <node id="h (hue) &lt;= 98.89" label="h (hue) &lt;= 98.89" />
+      <node id="b* &lt;= 30.32" label="b* &lt;= 30.32" />
+      <node id="b* &lt;= 27.57" label="b* &lt;= 27.57" />
+      <node id="b* &gt; 27.57" label="b* &gt; 27.57" />
+      <node id="a* &gt; -5.92" label="a* &gt; -5.92" />
+      <node id="pH &lt;= 2.81" label="pH &lt;= 2.81" />
+      <node id="Titrable acidity (%) &lt;= 0.41" label="Titrable acidity (%) &lt;= 0.41" />
+      <node id="Titrable acidity (%) &gt; 0.41" label="Titrable acidity (%) &gt; 0.41" />
+      <node id="b* &gt; 32.23" label="b* &gt; 32.23" />
+      <node id="h (hue) &gt; 83.01" label="h (hue) &gt; 83.01" />
+      <node id="b* &lt;= 33.4" label="b* &lt;= 33.4" />
+      <node id="b* &gt; 33.4" label="b* &gt; 33.4" />
+      <node id="L* &gt; 43.38" label="L* &gt; 43.38" />
+      <node id="pH &gt; 3.6" label="pH &gt; 3.6" />
+      <node id="pH &gt; 4.06" label="pH &gt; 4.06" />
+      <node id="Titrable acidity (%) &gt; 0.35" label="Titrable acidity (%) &gt; 0.35" />
+      <node id="a* &lt;= -4.15" label="a* &lt;= -4.15" />
+      <node id="b* &lt;= 32.23" label="b* &lt;= 32.23" />
+      <node id="a* &gt; -1.77" label="a* &gt; -1.77" />
+      <node id="a* &lt;= -1.77" label="a* &lt;= -1.77" />
+      <node id="a* &gt; -0.5" label="a* &gt; -0.5" />
+      <node id="a* &lt;= 3.47" label="a* &lt;= 3.47" />
+      <node id="L* &gt; 38.7" label="L* &gt; 38.7" />
+      <node id="h (hue) &lt;= 88.23" label="h (hue) &lt;= 88.23" />
+      <node id="Soluble solids (Brix) &gt; 9.19" label="Soluble solids (Brix) &gt; 9.19" />
+      <node id="h (hue) &lt;= 91.66" label="h (hue) &lt;= 91.66" />
+      <node id="C &lt;= 35.0" label="C &lt;= 35.0" />
+      <node id="L* &gt; 41.56" label="L* &gt; 41.56" />
+      <node id="L* &lt;= 41.56" label="L* &lt;= 41.56" />
+      <node id="pH &lt;= 3.11" label="pH &lt;= 3.11" />
+      <node id="a* &lt;= -8.49" label="a* &lt;= -8.49" />
+      <node id="a* &gt; -8.49" label="a* &gt; -8.49" />
+      <node id="h (hue) &lt;= 83.31" label="h (hue) &lt;= 83.31" />
+      <node id="a* &lt;= 8.04" label="a* &lt;= 8.04" />
+      <node id="moisture (%) &gt; 85.96" label="moisture (%) &gt; 85.96" />
+      <node id="moisture (%) &lt;= 85.96" label="moisture (%) &lt;= 85.96" />
+      <node id="Ascorbic acid (%) &gt; 0.5" label="Ascorbic acid (%) &gt; 0.5" />
+      <node id="a* &gt; -1.94" label="a* &gt; -1.94" />
+      <node id="a* &lt;= -1.94" label="a* &lt;= -1.94" />
+      <node id="h (hue) &gt; 90.33" label="h (hue) &gt; 90.33" />
+      <node id="h (hue) &lt;= 90.33" label="h (hue) &lt;= 90.33" />
+      <node id="L* &gt; 38.93" label="L* &gt; 38.93" />
+      <node id="a* &gt; 4.67" label="a* &gt; 4.67" />
+      <node id="a* &lt;= 4.67" label="a* &lt;= 4.67" />
+      <node id="Ascorbic acid (%) &gt; 0.21" label="Ascorbic acid (%) &gt; 0.21" />
+      <node id="Ascorbic acid (%) &lt;= 0.21" label="Ascorbic acid (%) &lt;= 0.21" />
+      <node id="Soluble solids (Brix) &lt;= 9.27" label="Soluble solids (Brix) &lt;= 9.27" />
+      <node id="a* &lt;= -2.22" label="a* &lt;= -2.22" />
+      <node id="pH &lt;= 3.36" label="pH &lt;= 3.36" />
+      <node id="pH &gt; 3.36" label="pH &gt; 3.36" />
+      <node id="C &gt; 35.74" label="C &gt; 35.74" />
+      <node id="h (hue) &lt;= 86.28" label="h (hue) &lt;= 86.28" />
+      <node id="a* &lt;= 7.48" label="a* &lt;= 7.48" />
+      <node id="a* &gt; 7.48" label="a* &gt; 7.48" />
+      <node id="h (hue) &gt; 98.89" label="h (hue) &gt; 98.89" />
+      <node id="moisture (%) &lt;= 83.71" label="moisture (%) &lt;= 83.71" />
+      <node id="moisture (%) &gt; 83.71" label="moisture (%) &gt; 83.71" />
+      <node id="L* &gt; 38.24" label="L* &gt; 38.24" />
+      <node id="L* &lt;= 38.24" label="L* &lt;= 38.24" />
+      <node id="C &gt; 28.41" label="C &gt; 28.41" />
+      <node id="C &lt;= 34.71" label="C &lt;= 34.71" />
+      <node id="a* &gt; -4.15" label="a* &gt; -4.15" />
+      <node id="moisture (%) &lt;= 89.27" label="moisture (%) &lt;= 89.27" />
+      <node id="pH &gt; 3.14" label="pH &gt; 3.14" />
+      <node id="a* &gt; 3.47" label="a* &gt; 3.47" />
+      <node id="C &lt;= 35.74" label="C &lt;= 35.74" />
+      <node id="a* &gt; -1.44" label="a* &gt; -1.44" />
+      <node id="a* &lt;= -0.82" label="a* &lt;= -0.82" />
+      <node id="a* &lt;= 3.58" label="a* &lt;= 3.58" />
+      <node id="Titrable acidity (%) &gt; 0.38" label="Titrable acidity (%) &gt; 0.38" />
+      <node id="a* &gt; 8.04" label="a* &gt; 8.04" />
+      <node id="Ascorbic acid (%) &lt;= 0.5" label="Ascorbic acid (%) &lt;= 0.5" />
+      <node id="h (hue) &lt;= 96.92" label="h (hue) &lt;= 96.92" />
+      <node id="h (hue) &gt; 98.55" label="h (hue) &gt; 98.55" />
+      <node id="h (hue) &lt;= 98.55" label="h (hue) &lt;= 98.55" />
+      <node id="b* &lt;= 32.41" label="b* &lt;= 32.41" />
+      <node id="b* &gt; 36.98" label="b* &gt; 36.98" />
+      <node id="C &lt;= 40.43" label="C &lt;= 40.43" />
+      <node id="b* &lt;= 36.98" label="b* &lt;= 36.98" />
+      <node id="pH &lt;= 3.6" label="pH &lt;= 3.6" />
+      <node id="b* &gt; 33.99" label="b* &gt; 33.99" />
+      <node id="Titrable acidity (%) &gt; 0.37" label="Titrable acidity (%) &gt; 0.37" />
+      <node id="Titrable acidity (%) &lt;= 0.55" label="Titrable acidity (%) &lt;= 0.55" />
+      <node id="pH &lt;= 3.19" label="pH &lt;= 3.19" />
+      <node id="Titrable acidity (%) &lt;= 0.34" label="Titrable acidity (%) &lt;= 0.34" />
+      <node id="L* &gt; 37.15" label="L* &gt; 37.15" />
+      <node id="L* &lt;= 37.15" label="L* &lt;= 37.15" />
+      <node id="Titrable acidity (%) &gt; 0.55" label="Titrable acidity (%) &gt; 0.55" />
+      <node id="pH &lt;= 3.14" label="pH &lt;= 3.14" />
+      <node id="Titrable acidity (%) &lt;= 0.35" label="Titrable acidity (%) &lt;= 0.35" />
+      <node id="moisture (%) &lt;= 89.04" label="moisture (%) &lt;= 89.04" />
+      <node id="pH &lt;= 3.69" label="pH &lt;= 3.69" />
+      <node id="pH &gt; 3.69" label="pH &gt; 3.69" />
+      <node id="a* &gt; 6.19" label="a* &gt; 6.19" />
+      <node id="Titrable acidity (%) &gt; 0.43" label="Titrable acidity (%) &gt; 0.43" />
+      <node id="Titrable acidity (%) &lt;= 0.43" label="Titrable acidity (%) &lt;= 0.43" />
+      <node id="h (hue) &lt;= 95.89" label="h (hue) &lt;= 95.89" />
+      <node id="b* &gt; 35.2" label="b* &gt; 35.2" />
+      <node id="a* &gt; -0.54" label="a* &gt; -0.54" />
+      <node id="a* &lt;= -0.54" label="a* &lt;= -0.54" />
+      <node id="h (hue) &lt;= 94.51" label="h (hue) &lt;= 94.51" />
+      <node id="Titrable acidity (%) &gt; 0.45" label="Titrable acidity (%) &gt; 0.45" />
+      <node id="a* &lt;= -5.21" label="a* &lt;= -5.21" />
+      <node id="L* &lt;= 31.05" label="L* &lt;= 31.05" />
+      <node id="pH &gt; 2.81" label="pH &gt; 2.81" />
+      <node id="Ascorbic acid (%) &gt; 0.17" label="Ascorbic acid (%) &gt; 0.17" />
+      <node id="Ascorbic acid (%) &lt;= 0.17" label="Ascorbic acid (%) &lt;= 0.17" />
+      <node id="h (hue) &lt;= 92.24" label="h (hue) &lt;= 92.24" />
+      <node id="h (hue) &gt; 92.05" label="h (hue) &gt; 92.05" />
+      <node id="h (hue) &lt;= 92.05" label="h (hue) &lt;= 92.05" />
+      <node id="pH &gt; 3.11" label="pH &gt; 3.11" />
+      <node id="Soluble solids (Brix) &gt; 9.27" label="Soluble solids (Brix) &gt; 9.27" />
+      <node id="a* &gt; -2.22" label="a* &gt; -2.22" />
+      <node id="h (hue) &lt;= 85.32" label="h (hue) &lt;= 85.32" />
+      <node id="h (hue) &gt; 85.32" label="h (hue) &gt; 85.32" />
+      <node id="h (hue) &gt; 83.98" label="h (hue) &gt; 83.98" />
+      <node id="b* &gt; 32.41" label="b* &gt; 32.41" />
+      <node id="b* &lt;= 34.64" label="b* &lt;= 34.64" />
+      <node id="C &gt; 40.43" label="C &gt; 40.43" />
+      <node id="h (hue) &gt; 95.89" label="h (hue) &gt; 95.89" />
+      <node id="Soluble solids (Brix) &gt; 11.23" label="Soluble solids (Brix) &gt; 11.23" />
+      <node id="b* &lt;= 35.2" label="b* &lt;= 35.2" />
+      <node id="h (hue) &gt; 80.21" label="h (hue) &gt; 80.21" />
+      <node id="Soluble solids (Brix) &lt;= 11.23" label="Soluble solids (Brix) &lt;= 11.23" />
+      <node id="a* &lt;= 1.06" label="a* &lt;= 1.06" />
+      <node id="a* &gt; 1.06" label="a* &gt; 1.06" />
+      <node id="Titrable acidity (%) &gt; 0.53" label="Titrable acidity (%) &gt; 0.53" />
+      <node id="L* &lt;= 45.01" label="L* &lt;= 45.01" />
+      <node id="pH &gt; 2.96" label="pH &gt; 2.96" />
+      <node id="moisture (%) &gt; 88.56" label="moisture (%) &gt; 88.56" />
+      <node id="moisture (%) &lt;= 88.56" label="moisture (%) &lt;= 88.56" />
+      <node id="a* &gt; 3.74" label="a* &gt; 3.74" />
+      <node id="a* &lt;= 3.74" label="a* &lt;= 3.74" />
+      <node id="a* &gt; -5.21" label="a* &gt; -5.21" />
+      <node id="b* &lt;= 37.56" label="b* &lt;= 37.56" />
+      <node id="h (hue) &gt; 98.18" label="h (hue) &gt; 98.18" />
+      <node id="Ascorbic acid (%) &lt;= 0.1" label="Ascorbic acid (%) &lt;= 0.1" />
+      <node id="a* &lt;= -5.92" label="a* &lt;= -5.92" />
+      <node id="b* &lt;= 34.53" label="b* &lt;= 34.53" />
+      <node id="h (hue) &gt; 89.23" label="h (hue) &gt; 89.23" />
+      <node id="h (hue) &lt;= 89.23" label="h (hue) &lt;= 89.23" />
+      <node id="a* &gt; 4.78" label="a* &gt; 4.78" />
+      <node id="b* &lt;= 34.93" label="b* &lt;= 34.93" />
+      <node id="a* &lt;= -0.5" label="a* &lt;= -0.5" />
+      <node id="L* &gt; 39.09" label="L* &gt; 39.09" />
+      <node id="L* &lt;= 39.09" label="L* &lt;= 39.09" />
+      <node id="Ascorbic acid (%) &gt; 0.11" label="Ascorbic acid (%) &gt; 0.11" />
+      <node id="moisture (%) &gt; 89.04" label="moisture (%) &gt; 89.04" />
+      <node id="C &lt;= 29.16" label="C &lt;= 29.16" />
+      <node id="h (hue) &gt; 99.41" label="h (hue) &gt; 99.41" />
+      <node id="h (hue) &lt;= 99.41" label="h (hue) &lt;= 99.41" />
+      <node id="b* &lt;= 31.65" label="b* &lt;= 31.65" />
+      <node id="b* &gt; 30.32" label="b* &gt; 30.32" />
+      <node id="Titrable acidity (%) &gt; 0.34" label="Titrable acidity (%) &gt; 0.34" />
+      <node id="C &gt; 29.16" label="C &gt; 29.16" />
+      <node id="Ascorbic acid (%) &lt;= 0.23" label="Ascorbic acid (%) &lt;= 0.23" />
+      <node id="Soluble solids (Brix) &gt; 7.54" label="Soluble solids (Brix) &gt; 7.54" />
+      <node id="h (hue) &lt;= 99.5" label="h (hue) &lt;= 99.5" />
+      <node id="Titrable acidity (%) &lt;= 0.37" label="Titrable acidity (%) &lt;= 0.37" />
+      <node id="pH &gt; 3.13" label="pH &gt; 3.13" />
+      <node id="L* &lt;= 43.38" label="L* &lt;= 43.38" />
+      <node id="Ascorbic acid (%) &gt; 0.55" label="Ascorbic acid (%) &gt; 0.55" />
+      <node id="moisture (%) &gt; 85.57" label="moisture (%) &gt; 85.57" />
+      <node id="moisture (%) &gt; 86.22" label="moisture (%) &gt; 86.22" />
+      <node id="moisture (%) &gt; 89.27" label="moisture (%) &gt; 89.27" />
+      <node id="Ascorbic acid (%) &lt;= 0.11" label="Ascorbic acid (%) &lt;= 0.11" />
+      <node id="a* &gt; 3.58" label="a* &gt; 3.58" />
+      <node id="Soluble solids (Brix) &gt; 9.57" label="Soluble solids (Brix) &gt; 9.57" />
+      <node id="b* &gt; 31.65" label="b* &gt; 31.65" />
+      <node id="b* &lt;= 37.72" label="b* &lt;= 37.72" />
+      <node id="moisture (%) &lt;= 86.22" label="moisture (%) &lt;= 86.22" />
+      <node id="h (hue) &lt;= 83.01" label="h (hue) &lt;= 83.01" />
+      <node id="C &gt; 37.44" label="C &gt; 37.44" />
+      <node id="C &lt;= 37.44" label="C &lt;= 37.44" />
+      <node id="h (hue) &gt; 101.33" label="h (hue) &gt; 101.33" />
+      <node id="moisture (%) &lt;= 85.57" label="moisture (%) &lt;= 85.57" />
+      <node id="Soluble solids (Brix) &lt;= 9.57" label="Soluble solids (Brix) &lt;= 9.57" />
+      <node id="a* &lt;= -1.44" label="a* &lt;= -1.44" />
+      <node id="h (hue) &gt; 86.01" label="h (hue) &gt; 86.01" />
+      <node id="C &gt; 40.78" label="C &gt; 40.78" />
+      <node id="C &gt; 35.0" label="C &gt; 35.0" />
+      <node id="moisture (%) &lt;= 85.09" label="moisture (%) &lt;= 85.09" />
+      <node id="L* &gt; 44.07" label="L* &gt; 44.07" />
+      <node id="b* &gt; 34.68" label="b* &gt; 34.68" />
+      <node id="b* &gt; 37.56" label="b* &gt; 37.56" />
+      <node id="moisture (%) &gt; 87.89" label="moisture (%) &gt; 87.89" />
+      <node id="L* &lt;= 41.32" label="L* &lt;= 41.32" />
+      <node id="L* &gt; 40.24" label="L* &gt; 40.24" />
+      <node id="L* &lt;= 40.24" label="L* &lt;= 40.24" />
+      <node id="pH &lt;= 3.07" label="pH &lt;= 3.07" />
+      <node id="a* &gt; -4.48" label="a* &gt; -4.48" />
+      <node id="h (hue) &lt;= 98.18" label="h (hue) &lt;= 98.18" />
+      <node id="moisture (%) &lt;= 85.15" label="moisture (%) &lt;= 85.15" />
+      <node id="C &lt;= 40.78" label="C &lt;= 40.78" />
+      <node id="a* &lt;= -5.07" label="a* &lt;= -5.07" />
+      <node id="b* &gt; 34.64" label="b* &gt; 34.64" />
+      <node id="h (hue) &gt; 99.5" label="h (hue) &gt; 99.5" />
+      <node id="a* &lt;= 6.19" label="a* &lt;= 6.19" />
+      <node id="a* &gt; -5.07" label="a* &gt; -5.07" />
+    </nodes>
+    <edges>
+      <edge source="Titrable acidity (%) &lt;= 0.45" target="L* &lt;= 39.2" id="0" weight="6.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.45" target="L* &gt; 39.2" id="1" weight="12.0" />
+      <edge source="L* &lt;= 39.2" target="h (hue) &gt; 88.23" id="2" weight="2.0" />
+      <edge source="L* &lt;= 39.2" target="h (hue) &lt;= 88.23" id="3" weight="4.0" />
+      <edge source="L* &gt; 39.2" target="Class 2" id="4" weight="12.0" />
+      <edge source="Titrable acidity (%) &gt; 0.5" target="h (hue) &gt; 97.75" id="5" weight="24.0" />
+      <edge source="Titrable acidity (%) &gt; 0.5" target="h (hue) &lt;= 97.75" id="6" weight="5.0" />
+      <edge source="h (hue) &gt; 97.75" target="pH &lt;= 2.96" id="7" weight="21.0" />
+      <edge source="h (hue) &gt; 97.75" target="pH &gt; 2.96" id="8" weight="3.0" />
+      <edge source="h (hue) &lt;= 97.75" target="L* &gt; 41.32" id="9" weight="4.0" />
+      <edge source="h (hue) &lt;= 97.75" target="L* &lt;= 41.32" id="10" weight="1.0" />
+      <edge source="pH &lt;= 3.59" target="moisture (%) &gt; 85.22" id="11" weight="1.0" />
+      <edge source="pH &lt;= 3.59" target="moisture (%) &lt;= 85.22" id="12" weight="1.0" />
+      <edge source="moisture (%) &gt; 85.22" target="Class 2" id="13" weight="1.0" />
+      <edge source="moisture (%) &lt;= 85.22" target="Class 1" id="14" weight="1.0" />
+      <edge source="b* &gt; 34.53" target="Class 1" id="15" weight="1.0" />
+      <edge source="pH &lt;= 4.06" target="moisture (%) &gt; 89.15" id="16" weight="6.0" />
+      <edge source="pH &lt;= 4.06" target="moisture (%) &lt;= 89.15" id="17" weight="24.0" />
+      <edge source="moisture (%) &gt; 89.15" target="Titrable acidity (%) &gt; 0.35" id="18" weight="1.0" />
+      <edge source="moisture (%) &gt; 89.15" target="Titrable acidity (%) &lt;= 0.35" id="19" weight="5.0" />
+      <edge source="moisture (%) &lt;= 89.15" target="L* &lt;= 38.7" id="20" weight="19.0" />
+      <edge source="moisture (%) &lt;= 89.15" target="L* &gt; 38.7" id="21" weight="5.0" />
+      <edge source="a* &lt;= -4.48" target="Class 0" id="22" weight="2.0" />
+      <edge source="h (hue) &lt;= 91.91" target="Ascorbic acid (%) &lt;= 0.36" id="23" weight="33.0" />
+      <edge source="h (hue) &lt;= 91.91" target="Ascorbic acid (%) &gt; 0.36" id="24" weight="28.0" />
+      <edge source="h (hue) &lt;= 91.91" target="Class 2" id="25" weight="1.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.36" target="L* &lt;= 38.93" id="26" weight="13.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.36" target="L* &gt; 38.93" id="27" weight="20.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.36" target="moisture (%) &gt; 86.22" id="28" weight="22.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.36" target="moisture (%) &lt;= 86.22" id="29" weight="6.0" />
+      <edge source="moisture (%) &lt;= 89.5" target="Class 1" id="30" weight="1.0" />
+      <edge source="Soluble solids (Brix) &lt;= 7.54" target="Class 0" id="31" weight="1.0" />
+      <edge source="a* &gt; -0.86" target="Class 2" id="32" weight="2.0" />
+      <edge source="pH &gt; 3.07" target="Class 1" id="33" weight="1.0" />
+      <edge source="h (hue) &gt; 88.23" target="moisture (%) &lt;= 89.5" id="34" weight="1.0" />
+      <edge source="h (hue) &gt; 88.23" target="moisture (%) &gt; 89.5" id="35" weight="1.0" />
+      <edge source="moisture (%) &gt; 89.5" target="Class 2" id="36" weight="1.0" />
+      <edge source="L* &gt; 46.5" target="Class 1" id="37" weight="1.0" />
+      <edge source="moisture (%) &gt; 85.09" target="Class 2" id="38" weight="1.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.53" target="h (hue) &lt;= 92.81" id="39" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.53" target="h (hue) &gt; 92.81" id="40" weight="16.0" />
+      <edge source="h (hue) &lt;= 92.81" target="h (hue) &lt;= 91.91" id="41" weight="1.0" />
+      <edge source="h (hue) &lt;= 92.81" target="h (hue) &gt; 91.91" id="42" weight="1.0" />
+      <edge source="h (hue) &gt; 92.81" target="h (hue) &gt; 98.55" id="43" weight="5.0" />
+      <edge source="h (hue) &gt; 92.81" target="h (hue) &lt;= 98.55" id="44" weight="11.0" />
+      <edge source="L* &lt;= 44.07" target="Class 2" id="45" weight="3.0" />
+      <edge source="b* &gt; 37.72" target="Class 1" id="46" weight="3.0" />
+      <edge source="b* &lt;= 34.68" target="Class 1" id="47" weight="1.0" />
+      <edge source="pH &lt;= 3.46" target="L* &gt; 43.78" id="48" weight="3.0" />
+      <edge source="pH &lt;= 3.46" target="L* &lt;= 43.78" id="49" weight="2.0" />
+      <edge source="L* &gt; 43.78" target="Class 1" id="50" weight="3.0" />
+      <edge source="L* &lt;= 43.78" target="Ascorbic acid (%) &gt; 0.11" id="51" weight="1.0" />
+      <edge source="L* &lt;= 43.78" target="Ascorbic acid (%) &lt;= 0.11" id="52" weight="1.0" />
+      <edge source="h (hue) &gt; 96.92" target="Titrable acidity (%) &gt; 0.54" id="53" weight="18.0" />
+      <edge source="h (hue) &gt; 96.92" target="Titrable acidity (%) &lt;= 0.54" id="54" weight="20.0" />
+      <edge source="Titrable acidity (%) &gt; 0.54" target="Class 0" id="55" weight="18.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.54" target="Soluble solids (Brix) &gt; 9.57" id="56" weight="3.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.54" target="Soluble solids (Brix) &lt;= 9.57" id="57" weight="17.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.46" target="h (hue) &lt;= 92.27" id="58" weight="7.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.46" target="h (hue) &gt; 92.27" id="59" weight="5.0" />
+      <edge source="h (hue) &lt;= 92.27" target="moisture (%) &lt;= 86.96" id="60" weight="2.0" />
+      <edge source="h (hue) &lt;= 92.27" target="moisture (%) &gt; 86.96" id="61" weight="5.0" />
+      <edge source="h (hue) &gt; 92.27" target="Class 1" id="62" weight="5.0" />
+      <edge source="pH &lt;= 3.13" target="L* &gt; 46.5" id="63" weight="1.0" />
+      <edge source="pH &lt;= 3.13" target="L* &lt;= 46.5" id="64" weight="1.0" />
+      <edge source="L* &lt;= 46.5" target="Class 2" id="65" weight="1.0" />
+      <edge source="Soluble solids (Brix) &lt;= 9.19" target="Soluble solids (Brix) &gt; 8.3" id="66" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 9.19" target="Soluble solids (Brix) &lt;= 8.3" id="67" weight="3.0" />
+      <edge source="Soluble solids (Brix) &gt; 8.3" target="Class 1" id="68" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 8.3" target="C &lt;= 40.43" id="69" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 8.3" target="C &gt; 40.43" id="70" weight="1.0" />
+      <edge source="h (hue) &gt; 83.31" target="Soluble solids (Brix) &lt;= 10.52" id="71" weight="12.0" />
+      <edge source="h (hue) &gt; 83.31" target="Soluble solids (Brix) &gt; 10.52" id="72" weight="6.0" />
+      <edge source="Soluble solids (Brix) &lt;= 10.52" target="b* &lt;= 33.4" id="73" weight="3.0" />
+      <edge source="Soluble solids (Brix) &lt;= 10.52" target="b* &gt; 33.4" id="74" weight="9.0" />
+      <edge source="Soluble solids (Brix) &gt; 10.52" target="Class 2" id="75" weight="6.0" />
+      <edge source="h (hue) &lt;= 80.21" target="Class 3" id="76" weight="18.0" />
+      <edge source="h (hue) &lt;= 101.33" target="a* &gt; -6.18" id="77" weight="6.0" />
+      <edge source="h (hue) &lt;= 101.33" target="a* &lt;= -6.18" id="78" weight="1.0" />
+      <edge source="a* &gt; -6.18" target="Ascorbic acid (%) &gt; 0.21" id="79" weight="1.0" />
+      <edge source="a* &gt; -6.18" target="Ascorbic acid (%) &lt;= 0.21" id="80" weight="5.0" />
+      <edge source="a* &lt;= -6.18" target="Class 0" id="81" weight="1.0" />
+      <edge source="pH &gt; 3.65" target="Soluble solids (Brix) &lt;= 10.66" id="82" weight="1.0" />
+      <edge source="pH &gt; 3.65" target="Soluble solids (Brix) &gt; 10.66" id="83" weight="3.0" />
+      <edge source="Soluble solids (Brix) &lt;= 10.66" target="Class 2" id="84" weight="1.0" />
+      <edge source="Soluble solids (Brix) &gt; 10.66" target="Class 3" id="85" weight="3.0" />
+      <edge source="h (hue) &gt; 86.28" target="Soluble solids (Brix) &lt;= 11.46" id="86" weight="12.0" />
+      <edge source="h (hue) &gt; 86.28" target="Soluble solids (Brix) &gt; 11.46" id="87" weight="8.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.46" target="h (hue) &gt; 90.33" id="88" weight="3.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.46" target="h (hue) &lt;= 90.33" id="89" weight="5.0" />
+      <edge source="C &gt; 34.71" target="Class 2" id="90" weight="3.0" />
+      <edge source="L* &gt; 45.01" target="Class 0" id="91" weight="1.0" />
+      <edge source="C &gt; 32.33" target="pH &lt;= 3.46" id="92" weight="5.0" />
+      <edge source="C &gt; 32.33" target="pH &gt; 3.46" id="93" weight="2.0" />
+      <edge source="pH &gt; 3.46" target="Class 3" id="94" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.38" target="pH &lt;= 3.59" id="95" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.38" target="pH &gt; 3.59" id="96" weight="9.0" />
+      <edge source="pH &gt; 3.59" target="Class 3" id="97" weight="9.0" />
+      <edge source="L* &gt; 41.32" target="a* &lt;= 0.41" id="98" weight="2.0" />
+      <edge source="L* &gt; 41.32" target="a* &gt; 0.41" id="99" weight="2.0" />
+      <edge source="a* &lt;= 0.41" target="Class 1" id="100" weight="2.0" />
+      <edge source="a* &gt; 0.41" target="Class 2" id="101" weight="2.0" />
+      <edge source="moisture (%) &lt;= 86.96" target="Class 2" id="102" weight="2.0" />
+      <edge source="moisture (%) &gt; 86.96" target="L* &lt;= 44.07" id="103" weight="3.0" />
+      <edge source="moisture (%) &gt; 86.96" target="L* &gt; 44.07" id="104" weight="2.0" />
+      <edge source="h (hue) &gt; 94.51" target="Class 1" id="105" weight="9.0" />
+      <edge source="C &lt;= 39.51" target="Soluble solids (Brix) &lt;= 11.25" id="106" weight="28.0" />
+      <edge source="C &lt;= 39.51" target="Soluble solids (Brix) &gt; 11.25" id="107" weight="8.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.25" target="a* &gt; -1.77" id="108" weight="21.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.25" target="a* &lt;= -1.77" id="109" weight="7.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.25" target="Titrable acidity (%) &lt;= 0.34" id="110" weight="2.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.25" target="Titrable acidity (%) &gt; 0.34" id="111" weight="6.0" />
+      <edge source="a* &lt;= 4.78" target="Class 2" id="112" weight="4.0" />
+      <edge source="Soluble solids (Brix) &lt;= 9.71" target="Class 3" id="113" weight="3.0" />
+      <edge source="h (hue) &gt; 91.91" target="Class 1" id="114" weight="1.0" />
+      <edge source="h (hue) &gt; 91.91" target="b* &lt;= 31.65" id="115" weight="18.0" />
+      <edge source="h (hue) &gt; 91.91" target="b* &gt; 31.65" id="116" weight="15.0" />
+      <edge source="h (hue) &gt; 90.52" target="Class 1" id="117" weight="1.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.5" target="h (hue) &lt;= 91.91" id="118" weight="61.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.5" target="h (hue) &gt; 91.91" id="119" weight="33.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.1" target="Class 2" id="120" weight="1.0" />
+      <edge source="h (hue) &lt;= 90.52" target="Class 2" id="121" weight="1.0" />
+      <edge source="b* &lt;= 33.99" target="C &gt; 32.33" id="122" weight="7.0" />
+      <edge source="b* &lt;= 33.99" target="C &lt;= 32.33" id="123" weight="14.0" />
+      <edge source="C &lt;= 32.33" target="a* &gt; -0.86" id="124" weight="2.0" />
+      <edge source="C &lt;= 32.33" target="a* &lt;= -0.86" id="125" weight="12.0" />
+      <edge source="L* &gt; 31.05" target="Ascorbic acid (%) &gt; 0.26" id="126" weight="38.0" />
+      <edge source="L* &gt; 31.05" target="Ascorbic acid (%) &lt;= 0.26" id="127" weight="28.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.26" target="h (hue) &gt; 86.28" id="128" weight="20.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.26" target="h (hue) &lt;= 86.28" id="129" weight="18.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.26" target="h (hue) &gt; 94.51" id="130" weight="9.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.26" target="h (hue) &lt;= 94.51" id="131" weight="19.0" />
+      <edge source="pH &lt;= 2.96" target="Class 0" id="132" weight="21.0" />
+      <edge source="h (hue) &gt; 91.66" target="Class 1" id="133" weight="5.0" />
+      <edge source="pH &lt;= 3.65" target="Class 2" id="134" weight="1.0" />
+      <edge source="h (hue) &gt; 92.24" target="Class 1" id="135" weight="2.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.55" target="Soluble solids (Brix) &lt;= 9.71" id="136" weight="3.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.55" target="Soluble solids (Brix) &gt; 9.71" id="137" weight="22.0" />
+      <edge source="Soluble solids (Brix) &gt; 9.71" target="a* &lt;= 4.78" id="138" weight="4.0" />
+      <edge source="Soluble solids (Brix) &gt; 9.71" target="a* &gt; 4.78" id="139" weight="18.0" />
+      <edge source="L* &lt;= 38.93" target="h (hue) &lt;= 80.15" id="140" weight="6.0" />
+      <edge source="L* &lt;= 38.93" target="h (hue) &gt; 80.15" id="141" weight="7.0" />
+      <edge source="h (hue) &lt;= 80.15" target="Class 3" id="142" weight="6.0" />
+      <edge source="h (hue) &gt; 80.15" target="a* &gt; 3.74" id="143" weight="2.0" />
+      <edge source="h (hue) &gt; 80.15" target="a* &lt;= 3.74" id="144" weight="5.0" />
+      <edge source="h (hue) &lt;= 86.01" target="pH &lt;= 3.52" id="145" weight="2.0" />
+      <edge source="h (hue) &lt;= 86.01" target="pH &gt; 3.52" id="146" weight="2.0" />
+      <edge source="pH &lt;= 3.52" target="h (hue) &lt;= 83.98" id="147" weight="1.0" />
+      <edge source="pH &lt;= 3.52" target="h (hue) &gt; 83.98" id="148" weight="1.0" />
+      <edge source="pH &gt; 3.52" target="Class 2" id="149" weight="2.0" />
+      <edge source="L* &lt;= 38.7" target="Class 3" id="150" weight="19.0" />
+      <edge source="a* &gt; -0.82" target="Class 2" id="151" weight="2.0" />
+      <edge source="pH &gt; 3.19" target="C &lt;= 39.51" id="152" weight="36.0" />
+      <edge source="pH &gt; 3.19" target="C &gt; 39.51" id="153" weight="2.0" />
+      <edge source="C &gt; 39.51" target="moisture (%) &gt; 85.09" id="154" weight="1.0" />
+      <edge source="C &gt; 39.51" target="moisture (%) &lt;= 85.09" id="155" weight="1.0" />
+      <edge source="a* &lt;= -0.86" target="Class 1" id="156" weight="12.0" />
+      <edge source="C &lt;= 28.41" target="Class 1" id="157" weight="1.0" />
+      <edge source="h (hue) &lt;= 83.98" target="Class 3" id="158" weight="1.0" />
+      <edge source="moisture (%) &gt; 85.15" target="Class 2" id="159" weight="1.0" />
+      <edge source="h (hue) &lt;= 98.89" target="Class 1" id="160" weight="3.0" />
+      <edge source="b* &lt;= 30.32" target="b* &lt;= 27.57" id="161" weight="2.0" />
+      <edge source="b* &lt;= 30.32" target="b* &gt; 27.57" id="162" weight="7.0" />
+      <edge source="b* &lt;= 27.57" target="Class 1" id="163" weight="2.0" />
+      <edge source="b* &gt; 27.57" target="Ascorbic acid (%) &lt;= 0.23" id="164" weight="7.0" />
+      <edge source="a* &gt; -5.92" target="Class 1" id="165" weight="1.0" />
+      <edge source="pH &lt;= 2.81" target="Titrable acidity (%) &lt;= 0.41" id="166" weight="2.0" />
+      <edge source="pH &lt;= 2.81" target="Titrable acidity (%) &gt; 0.41" id="167" weight="14.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.41" target="C &lt;= 29.16" id="168" weight="1.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.41" target="C &gt; 29.16" id="169" weight="1.0" />
+      <edge source="Titrable acidity (%) &gt; 0.41" target="Class 0" id="170" weight="14.0" />
+      <edge source="b* &gt; 32.23" target="Class 1" id="171" weight="1.0" />
+      <edge source="h (hue) &gt; 83.01" target="Class 2" id="172" weight="5.0" />
+      <edge source="b* &lt;= 33.4" target="Ascorbic acid (%) &gt; 0.1" id="173" weight="1.0" />
+      <edge source="b* &lt;= 33.4" target="Ascorbic acid (%) &lt;= 0.1" id="174" weight="2.0" />
+      <edge source="b* &gt; 33.4" target="Class 2" id="175" weight="9.0" />
+      <edge source="L* &gt; 43.38" target="Class 2" id="176" weight="14.0" />
+      <edge source="pH &gt; 3.6" target="pH &lt;= 4.06" id="177" weight="30.0" />
+      <edge source="pH &gt; 3.6" target="pH &gt; 4.06" id="178" weight="2.0" />
+      <edge source="pH &gt; 4.06" target="moisture (%) &lt;= 89.27" id="179" weight="1.0" />
+      <edge source="pH &gt; 4.06" target="moisture (%) &gt; 89.27" id="180" weight="1.0" />
+      <edge source="Titrable acidity (%) &gt; 0.35" target="Class 3" id="181" weight="1.0" />
+      <edge source="a* &lt;= -4.15" target="b* &gt; 32.23" id="182" weight="1.0" />
+      <edge source="a* &lt;= -4.15" target="b* &lt;= 32.23" id="183" weight="3.0" />
+      <edge source="b* &lt;= 32.23" target="Class 0" id="184" weight="3.0" />
+      <edge source="a* &gt; -1.77" target="h (hue) &gt; 83.31" id="185" weight="18.0" />
+      <edge source="a* &gt; -1.77" target="h (hue) &lt;= 83.31" id="186" weight="3.0" />
+      <edge source="a* &lt;= -1.77" target="Class 1" id="187" weight="7.0" />
+      <edge source="a* &gt; -0.5" target="Class 2" id="188" weight="3.0" />
+      <edge source="a* &lt;= 3.47" target="Class 2" id="189" weight="1.0" />
+      <edge source="L* &gt; 38.7" target="pH &gt; 3.65" id="190" weight="4.0" />
+      <edge source="L* &gt; 38.7" target="pH &lt;= 3.65" id="191" weight="1.0" />
+      <edge source="h (hue) &lt;= 88.23" target="Class 2" id="192" weight="4.0" />
+      <edge source="Soluble solids (Brix) &gt; 9.19" target="h (hue) &gt; 91.66" id="193" weight="5.0" />
+      <edge source="Soluble solids (Brix) &gt; 9.19" target="h (hue) &lt;= 91.66" id="194" weight="25.0" />
+      <edge source="h (hue) &lt;= 91.66" target="L* &gt; 43.38" id="195" weight="14.0" />
+      <edge source="h (hue) &lt;= 91.66" target="L* &lt;= 43.38" id="196" weight="11.0" />
+      <edge source="C &lt;= 35.0" target="L* &gt; 41.56" id="197" weight="11.0" />
+      <edge source="C &lt;= 35.0" target="L* &lt;= 41.56" id="198" weight="11.0" />
+      <edge source="L* &gt; 41.56" target="Titrable acidity (%) &gt; 0.43" id="199" weight="6.0" />
+      <edge source="L* &gt; 41.56" target="Titrable acidity (%) &lt;= 0.43" id="200" weight="5.0" />
+      <edge source="L* &lt;= 41.56" target="Titrable acidity (%) &gt; 0.43" id="201" weight="7.0" />
+      <edge source="L* &lt;= 41.56" target="Titrable acidity (%) &lt;= 0.43" id="202" weight="4.0" />
+      <edge source="pH &lt;= 3.11" target="a* &lt;= -8.49" id="203" weight="3.0" />
+      <edge source="pH &lt;= 3.11" target="a* &gt; -8.49" id="204" weight="28.0" />
+      <edge source="a* &lt;= -8.49" target="Class 0" id="205" weight="3.0" />
+      <edge source="a* &gt; -8.49" target="a* &gt; -0.5" id="206" weight="3.0" />
+      <edge source="a* &gt; -8.49" target="a* &lt;= -0.5" id="207" weight="25.0" />
+      <edge source="h (hue) &lt;= 83.31" target="Class 3" id="208" weight="3.0" />
+      <edge source="a* &lt;= 8.04" target="moisture (%) &gt; 85.96" id="209" weight="1.0" />
+      <edge source="a* &lt;= 8.04" target="moisture (%) &lt;= 85.96" id="210" weight="2.0" />
+      <edge source="moisture (%) &gt; 85.96" target="Class 2" id="211" weight="1.0" />
+      <edge source="moisture (%) &lt;= 85.96" target="moisture (%) &gt; 85.15" id="212" weight="1.0" />
+      <edge source="moisture (%) &lt;= 85.96" target="moisture (%) &lt;= 85.15" id="213" weight="1.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.5" target="h (hue) &gt; 90.52" id="214" weight="1.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.5" target="h (hue) &lt;= 90.52" id="215" weight="1.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.5" target="a* &gt; -1.94" id="216" weight="16.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.5" target="a* &lt;= -1.94" id="217" weight="1.0" />
+      <edge source="a* &gt; -1.94" target="moisture (%) &lt;= 83.71" id="218" weight="1.0" />
+      <edge source="a* &gt; -1.94" target="moisture (%) &gt; 83.71" id="219" weight="15.0" />
+      <edge source="a* &lt;= -1.94" target="Class 1" id="220" weight="1.0" />
+      <edge source="h (hue) &gt; 90.33" target="moisture (%) &gt; 85.57" id="221" weight="1.0" />
+      <edge source="h (hue) &gt; 90.33" target="moisture (%) &lt;= 85.57" id="222" weight="2.0" />
+      <edge source="h (hue) &lt;= 90.33" target="Class 2" id="223" weight="5.0" />
+      <edge source="L* &gt; 38.93" target="a* &gt; 4.67" id="224" weight="1.0" />
+      <edge source="L* &gt; 38.93" target="a* &lt;= 4.67" id="225" weight="19.0" />
+      <edge source="a* &gt; 4.67" target="Class 3" id="226" weight="1.0" />
+      <edge source="a* &lt;= 4.67" target="a* &lt;= 3.58" id="227" weight="16.0" />
+      <edge source="a* &lt;= 4.67" target="a* &gt; 3.58" id="228" weight="3.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.21" target="Class 0" id="229" weight="1.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.21" target="Class 1" id="230" weight="5.0" />
+      <edge source="Soluble solids (Brix) &lt;= 9.27" target="Class 0" id="231" weight="2.0" />
+      <edge source="a* &lt;= -2.22" target="pH &lt;= 3.36" id="232" weight="45.0" />
+      <edge source="a* &lt;= -2.22" target="pH &gt; 3.36" id="233" weight="5.0" />
+      <edge source="pH &lt;= 3.36" target="C &lt;= 35.0" id="234" weight="22.0" />
+      <edge source="pH &lt;= 3.36" target="C &gt; 35.0" id="235" weight="23.0" />
+      <edge source="pH &gt; 3.36" target="Class 1" id="236" weight="5.0" />
+      <edge source="C &gt; 35.74" target="Class 2" id="237" weight="2.0" />
+      <edge source="h (hue) &lt;= 86.28" target="a* &lt;= 7.48" id="238" weight="11.0" />
+      <edge source="h (hue) &lt;= 86.28" target="a* &gt; 7.48" id="239" weight="7.0" />
+      <edge source="a* &lt;= 7.48" target="L* &gt; 38.24" id="240" weight="6.0" />
+      <edge source="a* &lt;= 7.48" target="L* &lt;= 38.24" id="241" weight="5.0" />
+      <edge source="a* &gt; 7.48" target="Class 3" id="242" weight="7.0" />
+      <edge source="h (hue) &gt; 98.89" target="Class 0" id="243" weight="15.0" />
+      <edge source="moisture (%) &lt;= 83.71" target="Class 2" id="244" weight="1.0" />
+      <edge source="moisture (%) &gt; 83.71" target="Titrable acidity (%) &lt;= 0.38" id="245" weight="11.0" />
+      <edge source="moisture (%) &gt; 83.71" target="Titrable acidity (%) &gt; 0.38" id="246" weight="4.0" />
+      <edge source="L* &gt; 38.24" target="moisture (%) &lt;= 89.04" id="247" weight="3.0" />
+      <edge source="L* &gt; 38.24" target="moisture (%) &gt; 89.04" id="248" weight="3.0" />
+      <edge source="L* &lt;= 38.24" target="Class 3" id="249" weight="5.0" />
+      <edge source="C &gt; 28.41" target="C &gt; 34.71" id="250" weight="3.0" />
+      <edge source="C &gt; 28.41" target="C &lt;= 34.71" id="251" weight="2.0" />
+      <edge source="C &lt;= 34.71" target="b* &gt; 34.53" id="252" weight="1.0" />
+      <edge source="C &lt;= 34.71" target="b* &lt;= 34.53" id="253" weight="1.0" />
+      <edge source="a* &gt; -4.15" target="Class 1" id="254" weight="2.0" />
+      <edge source="moisture (%) &lt;= 89.27" target="Class 3" id="255" weight="1.0" />
+      <edge source="pH &gt; 3.14" target="a* &lt;= 3.47" id="256" weight="1.0" />
+      <edge source="pH &gt; 3.14" target="a* &gt; 3.47" id="257" weight="1.0" />
+      <edge source="a* &gt; 3.47" target="Class 3" id="258" weight="1.0" />
+      <edge source="C &lt;= 35.74" target="Class 3" id="259" weight="1.0" />
+      <edge source="a* &gt; -1.44" target="a* &gt; -0.82" id="260" weight="2.0" />
+      <edge source="a* &gt; -1.44" target="a* &lt;= -0.82" id="261" weight="2.0" />
+      <edge source="a* &lt;= -0.82" target="Class 1" id="262" weight="2.0" />
+      <edge source="a* &lt;= 3.58" target="Class 2" id="263" weight="16.0" />
+      <edge source="Titrable acidity (%) &gt; 0.38" target="a* &lt;= 8.04" id="264" weight="3.0" />
+      <edge source="Titrable acidity (%) &gt; 0.38" target="a* &gt; 8.04" id="265" weight="1.0" />
+      <edge source="a* &gt; 8.04" target="Class 3" id="266" weight="1.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.5" target="h (hue) &gt; 96.92" id="267" weight="38.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.5" target="Class 0" id="268" weight="2.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.5" target="h (hue) &lt;= 96.92" id="269" weight="68.0" />
+      <edge source="h (hue) &lt;= 96.92" target="L* &gt; 31.05" id="270" weight="66.0" />
+      <edge source="h (hue) &lt;= 96.92" target="L* &lt;= 31.05" id="271" weight="2.0" />
+      <edge source="h (hue) &gt; 98.55" target="Soluble solids (Brix) &lt;= 9.27" id="272" weight="2.0" />
+      <edge source="h (hue) &gt; 98.55" target="Soluble solids (Brix) &gt; 9.27" id="273" weight="3.0" />
+      <edge source="h (hue) &lt;= 98.55" target="Class 1" id="274" weight="11.0" />
+      <edge source="b* &lt;= 32.41" target="Class 0" id="275" weight="1.0" />
+      <edge source="b* &gt; 36.98" target="Class 1" id="276" weight="1.0" />
+      <edge source="C &lt;= 40.43" target="b* &gt; 36.98" id="277" weight="1.0" />
+      <edge source="C &lt;= 40.43" target="b* &lt;= 36.98" id="278" weight="1.0" />
+      <edge source="b* &lt;= 36.98" target="Class 2" id="279" weight="1.0" />
+      <edge source="pH &lt;= 3.6" target="b* &lt;= 33.99" id="280" weight="21.0" />
+      <edge source="pH &lt;= 3.6" target="b* &gt; 33.99" id="281" weight="35.0" />
+      <edge source="pH &lt;= 3.6" target="Class 2" id="282" weight="2.0" />
+      <edge source="b* &gt; 33.99" target="Soluble solids (Brix) &lt;= 9.19" id="283" weight="5.0" />
+      <edge source="b* &gt; 33.99" target="Soluble solids (Brix) &gt; 9.19" id="284" weight="30.0" />
+      <edge source="Titrable acidity (%) &gt; 0.37" target="Class 0" id="285" weight="6.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.55" target="pH &gt; 3.19" id="286" weight="38.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.55" target="pH &lt;= 3.19" id="287" weight="37.0" />
+      <edge source="pH &lt;= 3.19" target="pH &lt;= 3.11" id="288" weight="31.0" />
+      <edge source="pH &lt;= 3.19" target="pH &gt; 3.11" id="289" weight="6.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.34" target="L* &gt; 37.15" id="290" weight="1.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.34" target="L* &lt;= 37.15" id="291" weight="1.0" />
+      <edge source="L* &gt; 37.15" target="Class 1" id="292" weight="1.0" />
+      <edge source="L* &lt;= 37.15" target="Class 2" id="293" weight="1.0" />
+      <edge source="Titrable acidity (%) &gt; 0.55" target="pH &gt; 3.14" id="294" weight="2.0" />
+      <edge source="Titrable acidity (%) &gt; 0.55" target="pH &lt;= 3.14" id="295" weight="21.0" />
+      <edge source="pH &lt;= 3.14" target="C &gt; 40.78" id="296" weight="4.0" />
+      <edge source="pH &lt;= 3.14" target="C &lt;= 40.78" id="297" weight="17.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.35" target="C &gt; 37.44" id="298" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.35" target="C &lt;= 37.44" id="299" weight="3.0" />
+      <edge source="moisture (%) &lt;= 89.04" target="pH &lt;= 3.69" id="300" weight="1.0" />
+      <edge source="moisture (%) &lt;= 89.04" target="pH &gt; 3.69" id="301" weight="2.0" />
+      <edge source="pH &lt;= 3.69" target="Class 2" id="302" weight="1.0" />
+      <edge source="pH &gt; 3.69" target="Titrable acidity (%) &lt;= 0.37" id="303" weight="2.0" />
+      <edge source="a* &gt; 6.19" target="Class 3" id="304" weight="25.0" />
+      <edge source="Titrable acidity (%) &gt; 0.43" target="a* &lt;= -4.15" id="305" weight="4.0" />
+      <edge source="Titrable acidity (%) &gt; 0.43" target="a* &gt; -4.15" id="306" weight="2.0" />
+      <edge source="Titrable acidity (%) &gt; 0.43" target="a* &lt;= -5.21" id="307" weight="5.0" />
+      <edge source="Titrable acidity (%) &gt; 0.43" target="a* &gt; -5.21" id="308" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.43" target="a* &lt;= -4.48" id="309" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.43" target="Class 1" id="310" weight="5.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.43" target="a* &gt; -4.48" id="311" weight="2.0" />
+      <edge source="h (hue) &lt;= 95.89" target="Class 1" id="312" weight="1.0" />
+      <edge source="b* &gt; 35.2" target="a* &gt; -0.54" id="313" weight="11.0" />
+      <edge source="b* &gt; 35.2" target="a* &lt;= -0.54" id="314" weight="2.0" />
+      <edge source="a* &gt; -0.54" target="Class 2" id="315" weight="11.0" />
+      <edge source="a* &lt;= -0.54" target="Class 1" id="316" weight="2.0" />
+      <edge source="h (hue) &lt;= 94.51" target="Titrable acidity (%) &lt;= 0.45" id="317" weight="18.0" />
+      <edge source="h (hue) &lt;= 94.51" target="Titrable acidity (%) &gt; 0.45" id="318" weight="1.0" />
+      <edge source="Titrable acidity (%) &gt; 0.45" target="Class 3" id="319" weight="1.0" />
+      <edge source="a* &lt;= -5.21" target="Class 0" id="320" weight="5.0" />
+      <edge source="L* &lt;= 31.05" target="Class 3" id="321" weight="2.0" />
+      <edge source="pH &gt; 2.81" target="Ascorbic acid (%) &gt; 0.17" id="322" weight="11.0" />
+      <edge source="pH &gt; 2.81" target="Ascorbic acid (%) &lt;= 0.17" id="323" weight="8.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.17" target="h (hue) &gt; 99.41" id="324" weight="8.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.17" target="h (hue) &lt;= 99.41" id="325" weight="3.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.17" target="Class 0" id="326" weight="8.0" />
+      <edge source="h (hue) &lt;= 92.24" target="h (hue) &gt; 92.05" id="327" weight="1.0" />
+      <edge source="h (hue) &lt;= 92.24" target="h (hue) &lt;= 92.05" id="328" weight="9.0" />
+      <edge source="h (hue) &gt; 92.05" target="Class 1" id="329" weight="1.0" />
+      <edge source="h (hue) &lt;= 92.05" target="pH &lt;= 3.13" id="330" weight="2.0" />
+      <edge source="h (hue) &lt;= 92.05" target="pH &gt; 3.13" id="331" weight="7.0" />
+      <edge source="pH &gt; 3.11" target="C &lt;= 28.41" id="332" weight="1.0" />
+      <edge source="pH &gt; 3.11" target="C &gt; 28.41" id="333" weight="5.0" />
+      <edge source="Soluble solids (Brix) &gt; 9.27" target="Class 1" id="334" weight="3.0" />
+      <edge source="a* &gt; -2.22" target="h (hue) &lt;= 85.32" id="335" weight="33.0" />
+      <edge source="a* &gt; -2.22" target="h (hue) &gt; 85.32" id="336" weight="40.0" />
+      <edge source="h (hue) &lt;= 85.32" target="Ascorbic acid (%) &lt;= 0.55" id="337" weight="25.0" />
+      <edge source="h (hue) &lt;= 85.32" target="Ascorbic acid (%) &gt; 0.55" id="338" weight="8.0" />
+      <edge source="h (hue) &gt; 85.32" target="Soluble solids (Brix) &gt; 11.23" id="339" weight="18.0" />
+      <edge source="h (hue) &gt; 85.32" target="Soluble solids (Brix) &lt;= 11.23" id="340" weight="22.0" />
+      <edge source="h (hue) &gt; 83.98" target="Class 2" id="341" weight="1.0" />
+      <edge source="b* &gt; 32.41" target="Class 1" id="342" weight="1.0" />
+      <edge source="b* &lt;= 34.64" target="Class 1" id="343" weight="6.0" />
+      <edge source="C &gt; 40.43" target="Class 2" id="344" weight="1.0" />
+      <edge source="h (hue) &gt; 95.89" target="Class 0" id="345" weight="16.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.23" target="b* &gt; 35.2" id="346" weight="13.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.23" target="b* &lt;= 35.2" id="347" weight="5.0" />
+      <edge source="b* &lt;= 35.2" target="a* &gt; -1.44" id="348" weight="4.0" />
+      <edge source="b* &lt;= 35.2" target="a* &lt;= -1.44" id="349" weight="1.0" />
+      <edge source="h (hue) &gt; 80.21" target="Class 2" id="350" weight="4.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.23" target="a* &lt;= 1.06" id="351" weight="16.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.23" target="a* &gt; 1.06" id="352" weight="6.0" />
+      <edge source="a* &lt;= 1.06" target="h (hue) &gt; 89.23" id="353" weight="12.0" />
+      <edge source="a* &lt;= 1.06" target="h (hue) &lt;= 89.23" id="354" weight="4.0" />
+      <edge source="a* &gt; 1.06" target="Class 2" id="355" weight="6.0" />
+      <edge source="Titrable acidity (%) &gt; 0.53" target="L* &gt; 45.01" id="356" weight="1.0" />
+      <edge source="Titrable acidity (%) &gt; 0.53" target="L* &lt;= 45.01" id="357" weight="1.0" />
+      <edge source="L* &lt;= 45.01" target="moisture (%) &gt; 87.89" id="358" weight="1.0" />
+      <edge source="pH &gt; 2.96" target="moisture (%) &gt; 88.56" id="359" weight="2.0" />
+      <edge source="pH &gt; 2.96" target="moisture (%) &lt;= 88.56" id="360" weight="1.0" />
+      <edge source="moisture (%) &gt; 88.56" target="Class 0" id="361" weight="2.0" />
+      <edge source="moisture (%) &lt;= 88.56" target="b* &lt;= 34.93" id="362" weight="1.0" />
+      <edge source="a* &gt; 3.74" target="pH &lt;= 3.6" id="363" weight="2.0" />
+      <edge source="a* &lt;= 3.74" target="Class 2" id="364" weight="5.0" />
+      <edge source="a* &gt; -5.21" target="b* &lt;= 32.41" id="365" weight="1.0" />
+      <edge source="a* &gt; -5.21" target="b* &gt; 32.41" id="366" weight="1.0" />
+      <edge source="b* &lt;= 37.56" target="Class 2" id="367" weight="1.0" />
+      <edge source="h (hue) &gt; 98.18" target="pH &lt;= 2.81" id="368" weight="16.0" />
+      <edge source="h (hue) &gt; 98.18" target="pH &gt; 2.81" id="369" weight="19.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.1" target="Class 1" id="370" weight="2.0" />
+      <edge source="a* &lt;= -5.92" target="Class 0" id="371" weight="1.0" />
+      <edge source="b* &lt;= 34.53" target="Class 2" id="372" weight="1.0" />
+      <edge source="h (hue) &gt; 89.23" target="h (hue) &gt; 92.24" id="373" weight="2.0" />
+      <edge source="h (hue) &gt; 89.23" target="h (hue) &lt;= 92.24" id="374" weight="10.0" />
+      <edge source="h (hue) &lt;= 89.23" target="Class 2" id="375" weight="4.0" />
+      <edge source="a* &gt; 4.78" target="Class 3" id="376" weight="18.0" />
+      <edge source="b* &lt;= 34.93" target="Class 1" id="377" weight="1.0" />
+      <edge source="a* &lt;= -0.5" target="L* &gt; 39.09" id="378" weight="20.0" />
+      <edge source="a* &lt;= -0.5" target="L* &lt;= 39.09" id="379" weight="5.0" />
+      <edge source="L* &gt; 39.09" target="Titrable acidity (%) &lt;= 0.53" id="380" weight="18.0" />
+      <edge source="L* &gt; 39.09" target="Titrable acidity (%) &gt; 0.53" id="381" weight="2.0" />
+      <edge source="L* &lt;= 39.09" target="Class 0" id="382" weight="5.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.11" target="Class 1" id="383" weight="1.0" />
+      <edge source="moisture (%) &gt; 89.04" target="Class 3" id="384" weight="3.0" />
+      <edge source="C &lt;= 29.16" target="Class 1" id="385" weight="1.0" />
+      <edge source="h (hue) &gt; 99.41" target="Titrable acidity (%) &gt; 0.37" id="386" weight="6.0" />
+      <edge source="h (hue) &gt; 99.41" target="Titrable acidity (%) &lt;= 0.37" id="387" weight="2.0" />
+      <edge source="h (hue) &lt;= 99.41" target="Class 1" id="388" weight="3.0" />
+      <edge source="b* &lt;= 31.65" target="b* &lt;= 30.32" id="389" weight="9.0" />
+      <edge source="b* &lt;= 31.65" target="b* &gt; 30.32" id="390" weight="9.0" />
+      <edge source="b* &gt; 30.32" target="Class 1" id="391" weight="9.0" />
+      <edge source="Titrable acidity (%) &gt; 0.34" target="Class 2" id="392" weight="6.0" />
+      <edge source="C &gt; 29.16" target="Class 0" id="393" weight="1.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.23" target="Soluble solids (Brix) &lt;= 7.54" id="394" weight="1.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.23" target="Soluble solids (Brix) &gt; 7.54" id="395" weight="6.0" />
+      <edge source="Soluble solids (Brix) &gt; 7.54" target="a* &lt;= -5.07" id="396" weight="2.0" />
+      <edge source="Soluble solids (Brix) &gt; 7.54" target="a* &gt; -5.07" id="397" weight="4.0" />
+      <edge source="h (hue) &lt;= 99.5" target="Class 1" id="398" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.37" target="a* &gt; -5.92" id="399" weight="1.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.37" target="Class 3" id="400" weight="2.0" />
+      <edge source="Titrable acidity (%) &lt;= 0.37" target="a* &lt;= -5.92" id="401" weight="1.0" />
+      <edge source="pH &gt; 3.13" target="Class 2" id="402" weight="7.0" />
+      <edge source="L* &lt;= 43.38" target="h (hue) &lt;= 86.01" id="403" weight="4.0" />
+      <edge source="L* &lt;= 43.38" target="h (hue) &gt; 86.01" id="404" weight="7.0" />
+      <edge source="Ascorbic acid (%) &gt; 0.55" target="Class 3" id="405" weight="8.0" />
+      <edge source="moisture (%) &gt; 85.57" target="Class 2" id="406" weight="1.0" />
+      <edge source="moisture (%) &gt; 86.22" target="h (hue) &lt;= 80.21" id="407" weight="18.0" />
+      <edge source="moisture (%) &gt; 86.22" target="h (hue) &gt; 80.21" id="408" weight="4.0" />
+      <edge source="moisture (%) &gt; 89.27" target="Class 2" id="409" weight="1.0" />
+      <edge source="Ascorbic acid (%) &lt;= 0.11" target="Class 2" id="410" weight="1.0" />
+      <edge source="a* &gt; 3.58" target="C &gt; 35.74" id="411" weight="2.0" />
+      <edge source="a* &gt; 3.58" target="C &lt;= 35.74" id="412" weight="1.0" />
+      <edge source="Soluble solids (Brix) &gt; 9.57" target="Class 1" id="413" weight="3.0" />
+      <edge source="b* &gt; 31.65" target="b* &gt; 37.72" id="414" weight="3.0" />
+      <edge source="b* &gt; 31.65" target="b* &lt;= 37.72" id="415" weight="12.0" />
+      <edge source="b* &lt;= 37.72" target="b* &lt;= 34.64" id="416" weight="6.0" />
+      <edge source="b* &lt;= 37.72" target="b* &gt; 34.64" id="417" weight="6.0" />
+      <edge source="moisture (%) &lt;= 86.22" target="h (hue) &gt; 83.01" id="418" weight="5.0" />
+      <edge source="moisture (%) &lt;= 86.22" target="h (hue) &lt;= 83.01" id="419" weight="1.0" />
+      <edge source="h (hue) &lt;= 83.01" target="Class 3" id="420" weight="1.0" />
+      <edge source="C &gt; 37.44" target="b* &lt;= 37.56" id="421" weight="1.0" />
+      <edge source="C &gt; 37.44" target="b* &gt; 37.56" id="422" weight="1.0" />
+      <edge source="C &lt;= 37.44" target="Class 2" id="423" weight="3.0" />
+      <edge source="h (hue) &gt; 101.33" target="Class 0" id="424" weight="10.0" />
+      <edge source="moisture (%) &lt;= 85.57" target="Class 1" id="425" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 9.57" target="h (hue) &lt;= 101.33" id="426" weight="7.0" />
+      <edge source="Soluble solids (Brix) &lt;= 9.57" target="h (hue) &gt; 101.33" id="427" weight="10.0" />
+      <edge source="a* &lt;= -1.44" target="Class 1" id="428" weight="1.0" />
+      <edge source="h (hue) &gt; 86.01" target="Class 2" id="429" weight="7.0" />
+      <edge source="C &gt; 40.78" target="Ascorbic acid (%) &gt; 0.5" id="430" weight="2.0" />
+      <edge source="C &gt; 40.78" target="Ascorbic acid (%) &lt;= 0.5" id="431" weight="2.0" />
+      <edge source="C &gt; 35.0" target="L* &gt; 40.24" id="432" weight="19.0" />
+      <edge source="C &gt; 35.0" target="L* &lt;= 40.24" id="433" weight="4.0" />
+      <edge source="moisture (%) &lt;= 85.09" target="Class 1" id="434" weight="1.0" />
+      <edge source="L* &gt; 44.07" target="b* &lt;= 34.68" id="435" weight="1.0" />
+      <edge source="L* &gt; 44.07" target="b* &gt; 34.68" id="436" weight="1.0" />
+      <edge source="b* &gt; 34.68" target="Class 2" id="437" weight="1.0" />
+      <edge source="b* &gt; 37.56" target="Class 3" id="438" weight="1.0" />
+      <edge source="moisture (%) &gt; 87.89" target="Class 0" id="439" weight="1.0" />
+      <edge source="L* &lt;= 41.32" target="Class 3" id="440" weight="1.0" />
+      <edge source="L* &gt; 40.24" target="pH &gt; 3.07" id="441" weight="1.0" />
+      <edge source="L* &gt; 40.24" target="pH &lt;= 3.07" id="442" weight="18.0" />
+      <edge source="L* &lt;= 40.24" target="Class 0" id="443" weight="4.0" />
+      <edge source="pH &lt;= 3.07" target="h (hue) &lt;= 98.89" id="444" weight="3.0" />
+      <edge source="pH &lt;= 3.07" target="h (hue) &gt; 98.89" id="445" weight="15.0" />
+      <edge source="a* &gt; -4.48" target="Class 1" id="446" weight="2.0" />
+      <edge source="h (hue) &lt;= 98.18" target="pH &gt; 3.6" id="447" weight="32.0" />
+      <edge source="h (hue) &lt;= 98.18" target="pH &lt;= 3.6" id="448" weight="56.0" />
+      <edge source="moisture (%) &lt;= 85.15" target="Class 1" id="449" weight="1.0" />
+      <edge source="C &lt;= 40.78" target="h (hue) &lt;= 95.89" id="450" weight="1.0" />
+      <edge source="C &lt;= 40.78" target="h (hue) &gt; 95.89" id="451" weight="16.0" />
+      <edge source="a* &lt;= -5.07" target="Class 0" id="452" weight="2.0" />
+      <edge source="b* &gt; 34.64" target="h (hue) &lt;= 99.5" id="453" weight="2.0" />
+      <edge source="b* &gt; 34.64" target="h (hue) &gt; 99.5" id="454" weight="4.0" />
+      <edge source="h (hue) &gt; 99.5" target="Class 0" id="455" weight="4.0" />
+      <edge source="a* &lt;= 6.19" target="Titrable acidity (%) &lt;= 0.55" id="456" weight="75.0" />
+      <edge source="a* &lt;= 6.19" target="Titrable acidity (%) &gt; 0.55" id="457" weight="23.0" />
+      <edge source="a* &gt; -5.07" target="Class 1" id="458" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

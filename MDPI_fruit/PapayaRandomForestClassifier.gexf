@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-02">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="b* &lt;= 46.43" label="b* &lt;= 46.43" />
+      <node id="a* &lt;= -2.38" label="a* &lt;= -2.38" />
+      <node id="a* &gt; -2.38" label="a* &gt; -2.38" />
+      <node id="L* &lt;= 62.43" label="L* &lt;= 62.43" />
+      <node id="Class 1" label="Class 1" />
+      <node id="Soluble solids (Brix) &lt;= 13.31" label="Soluble solids (Brix) &lt;= 13.31" />
+      <node id="Class 0" label="Class 0" />
+      <node id="a* &gt; -0.86" label="a* &gt; -0.86" />
+      <node id="h &gt; 83.2" label="h &gt; 83.2" />
+      <node id="h &lt;= 83.2" label="h &lt;= 83.2" />
+      <node id="a* &lt;= -2.09" label="a* &lt;= -2.09" />
+      <node id="L* &gt; 62.43" label="L* &gt; 62.43" />
+      <node id="a* &gt; -0.83" label="a* &gt; -0.83" />
+      <node id="a* &lt;= -0.83" label="a* &lt;= -0.83" />
+      <node id="b* &gt; 49.71" label="b* &gt; 49.71" />
+      <node id="Class 2" label="Class 2" />
+      <node id="pH &gt; 5.78" label="pH &gt; 5.78" />
+      <node id="Soluble solids (Brix) &gt; 11.49" label="Soluble solids (Brix) &gt; 11.49" />
+      <node id="Soluble solids (Brix) &lt;= 11.49" label="Soluble solids (Brix) &lt;= 11.49" />
+      <node id="Soluble solids (Brix) &lt;= 13.05" label="Soluble solids (Brix) &lt;= 13.05" />
+      <node id="Pulp firmness (N) &gt; 47.31" label="Pulp firmness (N) &gt; 47.31" />
+      <node id="Pulp firmness (N) &lt;= 47.31" label="Pulp firmness (N) &lt;= 47.31" />
+      <node id="b* &lt;= 46.01" label="b* &lt;= 46.01" />
+      <node id="pH &gt; 5.77" label="pH &gt; 5.77" />
+      <node id="pH &lt;= 5.77" label="pH &lt;= 5.77" />
+      <node id="h &gt; 92.21" label="h &gt; 92.21" />
+      <node id="L* &gt; 59.94" label="L* &gt; 59.94" />
+      <node id="L* &lt;= 59.94" label="L* &lt;= 59.94" />
+      <node id="L* &lt;= 62.88" label="L* &lt;= 62.88" />
+      <node id="a* &lt;= -0.86" label="a* &lt;= -0.86" />
+      <node id="b* &gt; 42.14" label="b* &gt; 42.14" />
+      <node id="b* &lt;= 42.14" label="b* &lt;= 42.14" />
+      <node id="Soluble solids (Brix) &gt; 13.05" label="Soluble solids (Brix) &gt; 13.05" />
+      <node id="pH &lt;= 5.78" label="pH &lt;= 5.78" />
+      <node id="pH &lt;= 5.68" label="pH &lt;= 5.68" />
+      <node id="pH &gt; 5.68" label="pH &gt; 5.68" />
+      <node id="h &lt;= 84.52" label="h &lt;= 84.52" />
+      <node id="h &gt; 84.52" label="h &gt; 84.52" />
+      <node id="b* &lt;= 49.71" label="b* &lt;= 49.71" />
+      <node id="c &gt; 42.36" label="c &gt; 42.36" />
+      <node id="L* &gt; 59.72" label="L* &gt; 59.72" />
+      <node id="L* &lt;= 59.72" label="L* &lt;= 59.72" />
+      <node id="c &gt; 47.93" label="c &gt; 47.93" />
+      <node id="Pulp firmness (N) &gt; 12.38" label="Pulp firmness (N) &gt; 12.38" />
+      <node id="Pulp firmness (N) &lt;= 12.38" label="Pulp firmness (N) &lt;= 12.38" />
+      <node id="Soluble solids (Brix) &lt;= 12.16" label="Soluble solids (Brix) &lt;= 12.16" />
+      <node id="a* &gt; -2.09" label="a* &gt; -2.09" />
+      <node id="c &lt;= 42.36" label="c &lt;= 42.36" />
+      <node id="b* &lt;= 49.07" label="b* &lt;= 49.07" />
+      <node id="pH &gt; 5.9" label="pH &gt; 5.9" />
+      <node id="pH &lt;= 5.9" label="pH &lt;= 5.9" />
+      <node id="a* &lt;= 3.38" label="a* &lt;= 3.38" />
+      <node id="a* &gt; 3.38" label="a* &gt; 3.38" />
+      <node id="a* &lt;= 0.81" label="a* &lt;= 0.81" />
+      <node id="a* &gt; 0.81" label="a* &gt; 0.81" />
+      <node id="c &lt;= 43.0" label="c &lt;= 43.0" />
+      <node id="Pulp firmness (N) &lt;= 10.43" label="Pulp firmness (N) &lt;= 10.43" />
+      <node id="Pulp firmness (N) &lt;= 27.05" label="Pulp firmness (N) &lt;= 27.05" />
+      <node id="Soluble solids (Brix) &lt;= 13.41" label="Soluble solids (Brix) &lt;= 13.41" />
+      <node id="Soluble solids (Brix) &gt; 13.41" label="Soluble solids (Brix) &gt; 13.41" />
+      <node id="b* &gt; 46.01" label="b* &gt; 46.01" />
+      <node id="c &gt; 43.0" label="c &gt; 43.0" />
+      <node id="Soluble solids (Brix) &gt; 12.16" label="Soluble solids (Brix) &gt; 12.16" />
+      <node id="Pulp firmness (N) &gt; 10.43" label="Pulp firmness (N) &gt; 10.43" />
+      <node id="a* &lt;= -0.13" label="a* &lt;= -0.13" />
+      <node id="b* &lt;= 41.1" label="b* &lt;= 41.1" />
+      <node id="a* &lt;= -0.58" label="a* &lt;= -0.58" />
+      <node id="a* &gt; -0.58" label="a* &gt; -0.58" />
+      <node id="Pulp firmness (N) &lt;= 13.54" label="Pulp firmness (N) &lt;= 13.54" />
+      <node id="Soluble solids (Brix) &gt; 13.31" label="Soluble solids (Brix) &gt; 13.31" />
+      <node id="pH &lt;= 5.7" label="pH &lt;= 5.7" />
+      <node id="b* &gt; 49.07" label="b* &gt; 49.07" />
+      <node id="pH &gt; 5.7" label="pH &gt; 5.7" />
+      <node id="b* &gt; 46.12" label="b* &gt; 46.12" />
+      <node id="b* &lt;= 46.12" label="b* &lt;= 46.12" />
+      <node id="c &lt;= 47.93" label="c &lt;= 47.93" />
+      <node id="b* &gt; 46.43" label="b* &gt; 46.43" />
+      <node id="Pulp firmness (N) &gt; 27.05" label="Pulp firmness (N) &gt; 27.05" />
+      <node id="Pulp firmness (N) &gt; 13.54" label="Pulp firmness (N) &gt; 13.54" />
+      <node id="h &lt;= 92.33" label="h &lt;= 92.33" />
+      <node id="h &lt;= 87.49" label="h &lt;= 87.49" />
+      <node id="h &gt; 87.49" label="h &gt; 87.49" />
+      <node id="b* &gt; 41.1" label="b* &gt; 41.1" />
+      <node id="h &gt; 92.33" label="h &gt; 92.33" />
+      <node id="L* &gt; 62.88" label="L* &gt; 62.88" />
+      <node id="h &lt;= 92.21" label="h &lt;= 92.21" />
+      <node id="a* &gt; -0.13" label="a* &gt; -0.13" />
+    </nodes>
+    <edges>
+      <edge source="b* &lt;= 46.43" target="a* &lt;= -2.38" id="0" weight="19.0" />
+      <edge source="b* &lt;= 46.43" target="a* &gt; -2.38" id="1" weight="10.0" />
+      <edge source="a* &lt;= -2.38" target="Class 0" id="2" weight="19.0" />
+      <edge source="a* &gt; -2.38" target="Pulp firmness (N) &gt; 12.38" id="3" weight="7.0" />
+      <edge source="a* &gt; -2.38" target="Pulp firmness (N) &lt;= 12.38" id="4" weight="3.0" />
+      <edge source="L* &lt;= 62.43" target="Class 1" id="5" weight="8.0" />
+      <edge source="Soluble solids (Brix) &lt;= 13.31" target="Class 0" id="6" weight="18.0" />
+      <edge source="a* &gt; -0.86" target="h &gt; 83.2" id="7" weight="18.0" />
+      <edge source="a* &gt; -0.86" target="h &lt;= 83.2" id="8" weight="3.0" />
+      <edge source="h &gt; 83.2" target="b* &lt;= 49.07" id="9" weight="9.0" />
+      <edge source="h &gt; 83.2" target="b* &gt; 49.07" id="10" weight="9.0" />
+      <edge source="h &lt;= 83.2" target="Class 2" id="11" weight="3.0" />
+      <edge source="a* &lt;= -2.09" target="Class 0" id="12" weight="3.0" />
+      <edge source="L* &gt; 62.43" target="a* &gt; -0.83" id="13" weight="13.0" />
+      <edge source="L* &gt; 62.43" target="a* &lt;= -0.83" id="14" weight="1.0" />
+      <edge source="a* &gt; -0.83" target="h &lt;= 84.52" id="15" weight="3.0" />
+      <edge source="a* &gt; -0.83" target="h &gt; 84.52" id="16" weight="10.0" />
+      <edge source="a* &lt;= -0.83" target="Class 1" id="17" weight="1.0" />
+      <edge source="b* &gt; 49.71" target="Class 2" id="18" weight="1.0" />
+      <edge source="pH &gt; 5.78" target="Soluble solids (Brix) &gt; 11.49" id="19" weight="8.0" />
+      <edge source="pH &gt; 5.78" target="Soluble solids (Brix) &lt;= 11.49" id="20" weight="2.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.49" target="b* &gt; 46.12" id="21" weight="6.0" />
+      <edge source="Soluble solids (Brix) &gt; 11.49" target="b* &lt;= 46.12" id="22" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 11.49" target="Class 1" id="23" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 13.05" target="Pulp firmness (N) &gt; 47.31" id="24" weight="1.0" />
+      <edge source="Soluble solids (Brix) &lt;= 13.05" target="Pulp firmness (N) &lt;= 47.31" id="25" weight="4.0" />
+      <edge source="Pulp firmness (N) &gt; 47.31" target="Class 1" id="26" weight="1.0" />
+      <edge source="Pulp firmness (N) &lt;= 47.31" target="Class 0" id="27" weight="4.0" />
+      <edge source="b* &lt;= 46.01" target="pH &gt; 5.77" id="28" weight="3.0" />
+      <edge source="b* &lt;= 46.01" target="pH &lt;= 5.77" id="29" weight="1.0" />
+      <edge source="pH &gt; 5.77" target="Class 2" id="30" weight="3.0" />
+      <edge source="pH &lt;= 5.77" target="Class 0" id="31" weight="1.0" />
+      <edge source="h &gt; 92.21" target="L* &gt; 59.94" id="32" weight="3.0" />
+      <edge source="h &gt; 92.21" target="L* &lt;= 59.94" id="33" weight="21.0" />
+      <edge source="L* &gt; 59.94" target="Class 1" id="34" weight="3.0" />
+      <edge source="L* &lt;= 59.94" target="Soluble solids (Brix) &lt;= 13.31" id="35" weight="18.0" />
+      <edge source="L* &lt;= 59.94" target="Soluble solids (Brix) &gt; 13.31" id="36" weight="3.0" />
+      <edge source="L* &lt;= 62.88" target="Class 1" id="37" weight="4.0" />
+      <edge source="a* &lt;= -0.86" target="b* &gt; 42.14" id="38" weight="8.0" />
+      <edge source="a* &lt;= -0.86" target="b* &lt;= 42.14" id="39" weight="17.0" />
+      <edge source="b* &gt; 42.14" target="c &lt;= 43.0" id="40" weight="2.0" />
+      <edge source="b* &gt; 42.14" target="c &gt; 43.0" id="41" weight="6.0" />
+      <edge source="b* &lt;= 42.14" target="Class 0" id="42" weight="17.0" />
+      <edge source="Soluble solids (Brix) &gt; 13.05" target="Class 2" id="43" weight="1.0" />
+      <edge source="pH &lt;= 5.78" target="pH &lt;= 5.68" id="44" weight="4.0" />
+      <edge source="pH &lt;= 5.78" target="pH &gt; 5.68" id="45" weight="6.0" />
+      <edge source="pH &lt;= 5.68" target="Class 1" id="46" weight="4.0" />
+      <edge source="pH &gt; 5.68" target="h &lt;= 87.49" id="47" weight="4.0" />
+      <edge source="pH &gt; 5.68" target="h &gt; 87.49" id="48" weight="2.0" />
+      <edge source="h &lt;= 84.52" target="pH &lt;= 5.7" id="49" weight="1.0" />
+      <edge source="h &lt;= 84.52" target="pH &gt; 5.7" id="50" weight="2.0" />
+      <edge source="h &gt; 84.52" target="c &gt; 47.93" id="51" weight="9.0" />
+      <edge source="h &gt; 84.52" target="c &lt;= 47.93" id="52" weight="1.0" />
+      <edge source="b* &lt;= 49.71" target="Class 1" id="53" weight="12.0" />
+      <edge source="c &gt; 42.36" target="L* &gt; 59.72" id="54" weight="20.0" />
+      <edge source="c &gt; 42.36" target="L* &lt;= 59.72" id="55" weight="8.0" />
+      <edge source="L* &gt; 59.72" target="pH &gt; 5.78" id="56" weight="10.0" />
+      <edge source="L* &gt; 59.72" target="pH &lt;= 5.78" id="57" weight="10.0" />
+      <edge source="L* &lt;= 59.72" target="b* &lt;= 46.01" id="58" weight="4.0" />
+      <edge source="L* &lt;= 59.72" target="b* &gt; 46.01" id="59" weight="4.0" />
+      <edge source="c &gt; 47.93" target="Class 2" id="60" weight="9.0" />
+      <edge source="Pulp firmness (N) &gt; 12.38" target="Class 1" id="61" weight="7.0" />
+      <edge source="Pulp firmness (N) &lt;= 12.38" target="h &lt;= 92.33" id="62" weight="1.0" />
+      <edge source="Pulp firmness (N) &lt;= 12.38" target="h &gt; 92.33" id="63" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 12.16" target="a* &lt;= -2.09" id="64" weight="3.0" />
+      <edge source="Soluble solids (Brix) &lt;= 12.16" target="a* &gt; -2.09" id="65" weight="10.0" />
+      <edge source="a* &gt; -2.09" target="a* &lt;= 3.38" id="66" weight="6.0" />
+      <edge source="a* &gt; -2.09" target="a* &gt; 3.38" id="67" weight="4.0" />
+      <edge source="c &lt;= 42.36" target="Class 0" id="68" weight="18.0" />
+      <edge source="b* &lt;= 49.07" target="pH &gt; 5.9" id="69" weight="2.0" />
+      <edge source="b* &lt;= 49.07" target="pH &lt;= 5.9" id="70" weight="7.0" />
+      <edge source="pH &gt; 5.9" target="Pulp firmness (N) &lt;= 13.54" id="71" weight="1.0" />
+      <edge source="pH &gt; 5.9" target="Pulp firmness (N) &gt; 13.54" id="72" weight="1.0" />
+      <edge source="pH &lt;= 5.9" target="Class 1" id="73" weight="7.0" />
+      <edge source="a* &lt;= 3.38" target="a* &lt;= 0.81" id="74" weight="3.0" />
+      <edge source="a* &lt;= 3.38" target="a* &gt; 0.81" id="75" weight="3.0" />
+      <edge source="a* &gt; 3.38" target="Class 2" id="76" weight="4.0" />
+      <edge source="a* &lt;= 0.81" target="Class 2" id="77" weight="3.0" />
+      <edge source="a* &gt; 0.81" target="Class 1" id="78" weight="3.0" />
+      <edge source="c &lt;= 43.0" target="Class 2" id="79" weight="2.0" />
+      <edge source="Pulp firmness (N) &lt;= 10.43" target="Class 2" id="80" weight="4.0" />
+      <edge source="Pulp firmness (N) &lt;= 27.05" target="Soluble solids (Brix) &lt;= 13.41" id="81" weight="13.0" />
+      <edge source="Pulp firmness (N) &lt;= 27.05" target="Soluble solids (Brix) &gt; 13.41" id="82" weight="2.0" />
+      <edge source="Soluble solids (Brix) &lt;= 13.41" target="a* &lt;= -0.13" id="83" weight="1.0" />
+      <edge source="Soluble solids (Brix) &lt;= 13.41" target="a* &gt; -0.13" id="84" weight="12.0" />
+      <edge source="Soluble solids (Brix) &gt; 13.41" target="Class 1" id="85" weight="2.0" />
+      <edge source="b* &gt; 46.01" target="Class 2" id="86" weight="4.0" />
+      <edge source="c &gt; 43.0" target="Soluble solids (Brix) &lt;= 13.05" id="87" weight="5.0" />
+      <edge source="c &gt; 43.0" target="Soluble solids (Brix) &gt; 13.05" id="88" weight="1.0" />
+      <edge source="Soluble solids (Brix) &gt; 12.16" target="Pulp firmness (N) &lt;= 10.43" id="89" weight="4.0" />
+      <edge source="Soluble solids (Brix) &gt; 12.16" target="Pulp firmness (N) &gt; 10.43" id="90" weight="13.0" />
+      <edge source="Pulp firmness (N) &gt; 10.43" target="b* &gt; 49.71" id="91" weight="1.0" />
+      <edge source="Pulp firmness (N) &gt; 10.43" target="b* &lt;= 49.71" id="92" weight="12.0" />
+      <edge source="a* &lt;= -0.13" target="Class 1" id="93" weight="1.0" />
+      <edge source="b* &lt;= 41.1" target="a* &lt;= -0.58" id="94" weight="15.0" />
+      <edge source="b* &lt;= 41.1" target="a* &gt; -0.58" id="95" weight="1.0" />
+      <edge source="a* &lt;= -0.58" target="Class 0" id="96" weight="15.0" />
+      <edge source="a* &gt; -0.58" target="Class 1" id="97" weight="1.0" />
+      <edge source="Pulp firmness (N) &lt;= 13.54" target="Class 1" id="98" weight="1.0" />
+      <edge source="Soluble solids (Brix) &gt; 13.31" target="Class 2" id="99" weight="3.0" />
+      <edge source="pH &lt;= 5.7" target="Class 2" id="100" weight="1.0" />
+      <edge source="b* &gt; 49.07" target="L* &lt;= 62.88" id="101" weight="4.0" />
+      <edge source="b* &gt; 49.07" target="L* &gt; 62.88" id="102" weight="5.0" />
+      <edge source="pH &gt; 5.7" target="Class 1" id="103" weight="2.0" />
+      <edge source="b* &gt; 46.12" target="Class 2" id="104" weight="6.0" />
+      <edge source="b* &lt;= 46.12" target="Class 1" id="105" weight="2.0" />
+      <edge source="c &lt;= 47.93" target="Class 1" id="106" weight="1.0" />
+      <edge source="b* &gt; 46.43" target="Pulp firmness (N) &lt;= 27.05" id="107" weight="15.0" />
+      <edge source="b* &gt; 46.43" target="Pulp firmness (N) &gt; 27.05" id="108" weight="2.0" />
+      <edge source="Pulp firmness (N) &gt; 27.05" target="Class 1" id="109" weight="2.0" />
+      <edge source="Pulp firmness (N) &gt; 13.54" target="Class 2" id="110" weight="1.0" />
+      <edge source="h &lt;= 92.33" target="Class 0" id="111" weight="1.0" />
+      <edge source="h &lt;= 87.49" target="Class 2" id="112" weight="4.0" />
+      <edge source="h &gt; 87.49" target="Class 1" id="113" weight="2.0" />
+      <edge source="b* &gt; 41.1" target="Soluble solids (Brix) &lt;= 12.16" id="114" weight="13.0" />
+      <edge source="b* &gt; 41.1" target="Soluble solids (Brix) &gt; 12.16" id="115" weight="17.0" />
+      <edge source="h &gt; 92.33" target="Class 2" id="116" weight="2.0" />
+      <edge source="L* &gt; 62.88" target="Class 2" id="117" weight="5.0" />
+      <edge source="h &lt;= 92.21" target="L* &lt;= 62.43" id="118" weight="8.0" />
+      <edge source="h &lt;= 92.21" target="L* &gt; 62.43" id="119" weight="14.0" />
+      <edge source="a* &gt; -0.13" target="Class 2" id="120" weight="12.0" />
+    </edges>
+  </graph>
+</gexf>
